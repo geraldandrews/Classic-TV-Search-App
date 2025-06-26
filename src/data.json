@@ -1,0 +1,1766 @@
+  [
+	{
+		"id": 1,
+		"duration": "5 Seasons",
+		"name": "21 Jump Street",
+		"start": "April 12, 1987",
+		"end": "April 27, 1991",
+		"type": "Police Procedural Television Series",
+		"img": "../src/img/street.png",
+		"link": "https://www.youtube.com/watch?v=AcoHG1iOiYo"
+	},
+	{
+		"id": 2,
+		"duration": "5 Seasons",
+		"name": "227",
+		"start": "September 14, 1985",
+		"end": "May 6, 1990",
+		"type": "Sitcom Television series",
+		"img": "../src/img/227.jpg",
+		"link": "https://www.youtube.com/watch?v=HlAvaED3ACI"
+	},
+	{
+		"id": 3,
+		"duration": "6 Seasons",
+		"name": "3rd Rock from the Son",
+		"start": "January 9, 1996",
+		"end": "May 22, 2001",
+		"type": "Sitcom Television series",
+		"img": "../src/img/sun.jpg",
+		"link": "https://www.youtube.com/watch?v=sBQ9yToAsFU"
+	},
+	{
+		"id": 4,
+		"duration": "7 Seasons",
+		"name": "Adam-12",
+		"start": "September 21, 1968",
+		"end": "May 20, 1975",
+		"type": "Television Police Procedural Drama",
+		"img": "../src/img/adam12.jpg",
+		"link": "https://www.youtube.com/watch?v=zi0f0tzEIIY"
+	},
+	{
+		"id": 5,
+		"duration": "6 Seasons",
+		"name": "A Different World",
+		"start": "September 24, 1987",
+		"end": "July 9, 1993",
+		"type": "Sitcom Television series",
+		"img": "../src/img/different.jpg",
+		"link": "https://www.youtube.com/watch?v=acvFhBiI31A"
+	},
+	{
+		"id": 6,
+		"duration": "4 Seasons",
+		"name": "ALF",
+		"start": "September 22, 1986",
+		"end": "March 24, 1990",
+		"type": "Sitcom Television series",
+		"img": "../src/img/alf.jpg",
+		"link": "https://www.youtube.com/watch?v=-NVr-vXIa-A"
+	},
+	{
+		"id": 7,
+		"duration": "9 Seasons",
+		"name": "Alice",
+		"start": "August 31, 1976",
+		"end": "March 19, 1985",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/alice.jpg",
+		"link": "https://www.youtube.com/watch?v=2iM6PcJFLow"
+	},
+	{
+		"id": 8,
+		"duration": "9 Seasons",
+		"name": "All in the Family",
+		"start": "January 12, 1971",
+		"end": "April 8, 1979",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/family.jpg",
+		"link": "https://www.youtube.com/watch?v=fye4uY3pCvo"
+	},
+	{
+		"id": 9,
+		"duration": "8 Seasons",
+		"name": "Alvin and the Chipmunks",
+		"start": "September 17, 1983",
+		"end": "December 1, 1990",
+		"type": "Animated Television Series",
+		"img": "../src/img/chipmunks.jpg",
+		"link": "https://www.youtube.com/watch?v=cZmE5fJYumE"
+	},
+	{
+		"id": 10,
+		"duration": "3 Seasons",
+		"name": "Batman",
+		"start": "January 12, 1966",
+		"end": "March 14, 1968",
+		"type": "Live Action Television Series",
+		"img": "../src/img/batman.jpg",
+		"link": "https://www.youtube.com/watch?v=1jgE-lrfZ3k"
+	},
+	{
+		"id": 11,
+		"duration": "11 Seasons",
+		"name": "Baywatch",
+		"start": "September 22, 1989",
+		"end": "May 14, 2001",
+		"type": "Action Drama Television Series",
+		"img":"../src/img/baywatch.jpg",
+		"link": "https://www.youtube.com/watch?v=O0nqwgu_Us4"
+	},
+	{
+		"id": 12,
+		"duration": "8 Seasons",
+		"name": "Beavis and Butt-Head",
+		"start": "March 8, 1993",
+		"end": "November 28, 1997",
+		"type": "Animated Sitcom Television Series",
+		"img":"../src/img/beavis.png",
+		"link": "https://www.youtube.com/watch?v=KPeePg2N6QM"
+	},
+	{
+		"id": 13,
+		"duration": "9 Seasons",
+		"name": "Beverly Hillbillies",
+		"start": "September 26, 1962",
+		"end": "March 23, 1971",
+		"type": "Sitcom Television Series",
+		"img":"../src/img/hillbillies.jpg",
+		"link": "https://www.youtube.com/watch?v=wQ1TgMXqZ6Y"
+	},
+	{
+		"id": 14,
+		"duration": "10 Seasons",
+		"name": "Beverly Hills, 90210",
+		"start": "October 4, 1990",
+		"end": "May 17, 2000",
+		"type": "American Teen Drama",
+		"img":"../src/img/beverly-hills.webp",
+		"link": "https://www.youtube.com/watch?v=JDOrOMuo-9o"
+	},
+	{
+		"id": 15,
+		"duration": "8 Seasons",
+		"name": "Bewitched",
+		"start": "September 17, 1964",
+		"end": "March 25, 1972",
+		"type": "Sitcom Television Series",
+		"img":"../src/img/bewitched.jpg",
+		"link": "https://www.youtube.com/watch?v=3p2Q7vs4bQk"
+	},
+	{
+		"id": 16,
+		"duration": "5 Seasons",
+		"name": "Blossom",
+		"start": "January 3, 1991",
+		"end": "May 22, 1995",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/blossom.jpg",
+		"link": "https://www.youtube.com/watch?v=QkYMU9vZ-lc"
+	},
+	{
+		"id": 17,
+		"duration": "14 Seasons",
+		"name": "Bonanza",
+		"start": "September 12, 1959",
+		"end": "January 16, 1983",
+		"type": "Western Television Series",
+		"img": "../src/img/bonanza.jpg",
+		"link": "https://www.youtube.com/watch?v=iQjb_QiFbJE"
+	},
+	{
+		"id": 18,
+		"duration": "7 Seasons",
+		"name": "Boy Meets World",
+		"start": "September 24, 1993",
+		"end": "May 5, 2000",
+		"type": "Sitcom Television series",
+		"img": "../src/img/world.jpg",
+		"link": "https://www.youtube.com/watch?v=5A3eZktOA_g"
+	},
+	{
+		"id": 19,
+		"duration": "5 Seasons",
+		"name": "California Dreams",
+		"start": "September 12, 1992",
+		"end": "December 14, 1996",
+		"type": "Sitcom Television series",
+		"img": "../src/img/california-dreams.jpg",
+		"link": "https://www.youtube.com/watch?v=34VWf-wOSGk"
+	},
+	{
+		"id": 20,
+		"duration": "7 Seasons",
+		"name": "Cagney and Lacey",
+		"start": "March 25, 1982",
+		"end": "May 16, 1988",
+		"type": "Police Procedural Drama Television Series",
+		"img": "../src/img/cagney.jpg",
+		"link": "https://www.youtube.com/watch?v=OuwaA0BLKr4"
+	},
+	{
+		"id": 21,
+		"duration": "6 Seasons",
+		"name": "Card Sharks",
+		"start": "April 24, 1978",
+		"end": "March 31, 1989",
+		"type": "Television Game Show",
+		"img": "../src/img/card-sharks.jpg",
+		"link": "https://www.youtube.com/watch?v=uHx93JHDR_Y"
+	},
+	{
+		"id": 22,
+		"duration": "2 Seasons",
+		"name": "Car 54, Where Are You?",
+		"start": "September 17, 1961",
+		"end": "April 14, 1963",
+		"type": "Sitcom Television series",
+		"img": "../src/img/car.jpg",
+		"link": "https://www.youtube.com/watch?v=S5MkCAwupe0"
+	},
+	{
+		"id": 23,
+		"duration": "5 Seasons",
+		"name": "Charlie's Angels",
+		"start": "September 22, 1976",
+		"end": "June 24, 1981",
+		"type": "Crime Drama Television series",
+		"img": "../src/img/angels.jpg",
+		"link": "https://www.youtube.com/watch?v=OVtVru9KXao"
+	},
+	{
+		"id": 24,
+		"duration": "11 Seasons",
+		"name": "Cheers",
+		"start": "September 30, 1982",
+		"end": "May 30, 1993",
+		"type": "Sitcom Television series",
+		"img": "../src/img/cheers.jpg",
+		"link": "https://www.youtube.com/watch?v=7KtAgAMzaeg"
+	},
+	{
+		"id": 25,
+		"duration": "6 Seasons",
+		"name": "CHiPs",
+		"start": "September 15, 1977",
+		"end": "May 1, 1983",
+		"type": "Crime Drama Television Series",
+		"img": "../src/img/chips.jpg",
+		"link": "https://www.youtube.com/watch?v=a2xwLJQGdho"
+	},
+	{
+		"id": 26,
+		"duration": "9 Seasons",
+		"name": "Coach",
+		"start": "February 28, 1989",
+		"end": "May 14, 1997",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/coach.jpg",
+		"link": "https://www.youtube.com/watch?v=VedNLt2Sg1I"
+	},
+	{
+		"id": 27,
+		"duration": "14 Seasons",
+		"name": "Dallas",
+		"start": "April 2, 1978",
+		"end": "May 3, 1991",
+		"type": "Prime Time Soap Opera",
+		"img": "../src/img/dallas.jpg",
+		"link": "https://www.youtube.com/watch?v=9Y7gP-eEVRU"
+	},
+	{
+		"id": 28,
+		"duration": "4 Seasons",
+		"name": "Dear John",
+		"start": "October 6, 1988",
+		"end": "July 22, 1992",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/john.jpg",
+		"link": "https://www.youtube.com/watch?v=rxLqW0Q2DFU"
+	},
+	{
+		"id": 29,
+		"duration": "4 Seasons",
+		"name": "Dennis the Menace",
+		"start": "October 4, 1959",
+		"end": "July 7, 1963",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/menace.webp",
+		"link": "https://www.youtube.com/watch?v=Ybj-tmSE3pc"
+	},
+    {
+		"id": 30,
+		"duration": "8 Seasons",
+		"name": "Different Strokes",
+		"start": "November 3, 1978",
+		"end": "March 7, 1986",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/strokes.jpg",
+		"link": "https://www.youtube.com/watch?v=IU28sbyBILA"
+	},
+	{
+		"id": 31,
+		"duration": "4 Seasons",
+		"name": "Doogie Howser, M.D.",
+		"start": "September 19, 1989",
+		"end": "March 24, 1993",
+		"type": "Medical Drama Series",
+		"img": "../src/img/howser.jpg",
+		"link": "https://www.youtube.com/watch?v=mrERtikdPus"
+	},
+	{
+		"id": 32,
+		"duration": "7 Seasons",
+		"name": "Double Dare",
+		"start": "October 6, 1986",
+		"end": "February 7, 1993",
+		"type": "Television Game Show",
+		"img": "../src/img/double-dare.webp",
+		"link": "https://www.youtube.com/watch?v=XEZCY95JliY"
+	},
+	{
+		"id": 33,
+		"duration": "16 Total Seasons",
+		"name": "Dragnet",
+		"start": "December 16, 1951",
+		"end": "December 4, 2004",
+		"type": "Radio and Television Series",
+		"img": "../src/img/dragnet.jpg",
+		"link": "https://www.youtube.com/watch?v=Hj-qhIGTXdU"
+	},
+	{
+		"id": 34,
+		"duration": "7 Seasons",
+		"name": "Empty Nest",
+		"start": "October 8, 1988",
+		"end": "April 29, 1995",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/nest.jpg",
+		"link": "https://www.youtube.com/watch?v=jnF6ue_8eu4"
+	},
+	{
+		"id": 35,
+		"duration": "9 Seasons",
+		"name": "Everybody Loves Raymond",
+		"start": "September 13, 1996",
+		"end": "May 16, 2005",
+		"type": "Sitcom Television series",
+		"img": "../src/img/raymond.jpg",
+		"link": "https://www.youtube.com/watch?v=bEu1sUzVXpI"
+	},
+	{
+		"id": 36,
+		"duration": "26 Seasons",
+		"name": "Family Feud",
+		"start": "July 12, 1976",
+		"end": "Present",
+		"type": "Television Game Show",
+		"img": "../src/img/family-feud.jpg",
+		"link": "https://www.youtube.com/watch?v=PD-kwcEUcoI"
+	},
+	{
+		"id": 37,
+		"duration": "9 Seasons",
+		"name": "Family Matters",
+		"start": "September 22, 1989",
+		"end": "May 9, 1997",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/matters.jpg",
+		"link": "https://www.youtube.com/watch?v=ws6zba8sTVw"
+	},
+	{
+		"id": 38,
+		"duration": "7 Seasons",
+		"name": "Family Ties",
+		"start": "September 22, 1982",
+		"end": "May 14, 1989",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/ties.jpg",
+		"link": "https://www.youtube.com/watch?v=ZdzfOowQ0xY"
+	},
+	{
+		"id": 39,
+		"duration": "6 Seasons",
+		"name": "Father Knows Best",
+		"start": "October 3, 1954",
+		"end": "May 23, 1960",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/father.jpg",
+		"link": "https://www.youtube.com/watch?v=sxyR_zOzW-s"
+	},
+	{
+		"id": 40,
+		"duration": "6 Seasons",
+		"name": "Father Murphy",
+		"start": "November 3, 1981",
+		"end": "September 18, 1983",
+		"type":"Western Drama Television Series",
+		"img": "../src/img/murphy.png",
+		"link": "https://www.youtube.com/watch?v=owBp3gN1gNg"
+	},
+	{
+		"id": 41,
+		"duration": "3 Seasons",
+		"name": "Flipper",
+		"start": "September 19, 1964",
+		"end": "April 15, 1967",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/flipper.jpg",
+		"link": "https://www.youtube.com/watch?v=y6PqrTZsho0"
+	},
+	{
+		"id": 42,
+		"duration": "10 Seasons",
+		"name": "Friends",
+		"start": "September 22, 1994",
+		"end": "May 6, 2004",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/friends.jpg",
+		"link": "https://www.youtube.com/watch?v=vQtveTUZrS8"
+	},
+	{
+		"id": 43,
+		"duration": "2 Seasons",
+		"name": "F Troop",
+		"start": "September 14, 1965",
+		"end": "April 6, 1967",
+		"type":"Satirical Television Sitcom Western",
+		"img": "../src/img/troop.webp",
+		"link": "https://www.youtube.com/watch?v=ihcd1XInF24"
+	},
+	{
+		"id": 44,
+		"duration": "8 Seasons",
+		"name": "Full House",
+		"start": "September 22, 1987",
+		"end": "May 23, 1995",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/full.jpg",
+		"link": "https://www.youtube.com/watch?v=2EL65KLdEHE"
+	},
+	{
+		"id": 45,
+		"duration": "5 Seasons",
+		"name": "Get Smart",
+		"start": "September 18, 1965",
+		"end": "May 15, 1970",
+		"type": "Comedy Television Series",
+		"img": "../src/img/smart.gif",
+		"link": "https://www.youtube.com/watch?v=sWEvp217Tzw"
+	},
+	{
+		"id": 46,
+		"duration": "3 Seasons",
+		"name": "Gillgan's Island",
+		"start": "September 26, 1964",
+		"end": "April 17, 1967",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/gilligan.jpg",
+		"link": "https://www.youtube.com/watch?v=cfR7qxtgCgY"
+	},
+	{
+		"id": 47,
+		"duration": "6 Seasons",
+		"name": "Gimme a Break!",
+		"start": "October 28, 1981",
+		"end": "May 12, 1987",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/gimmie.png",
+		"link": "https://www.youtube.com/watch?v=e4EAGiefnxc"
+	},
+	{
+		"id": 48,
+		"duration": "5 Seasons",
+		"name": "Gomer Pyle, U.S.M.C.",
+		"start": "September 25, 1964",
+		"end": "May 2, 1969",
+		"type": "Comedy Television Series",
+		"img": "../src/img/gomer.jpg",
+		"link": "https://www.youtube.com/watch?v=_JAA2Unb0B4"
+	},
+	{
+		"id": 49,
+		"duration": "6 Seasons",
+		"name": "Good Times",
+		"start": "February 8, 1974",
+		"end": "August 1, 1979",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/times.jpg",
+		"link": "https://www.youtube.com/watch?v=4MuG-uWocvs"
+	},
+	{
+		"id": 50,
+		"duration": "6 Seasons",
+		"name": "Green Acres",
+		"start": "September 15, 1965",
+		"end": "April 27, 1971",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/acres.jpg",
+		"link": "https://www.youtube.com/watch?v=DrbPAt1_vc4"
+	},
+	{
+		"id": 51,
+		"duration": "7 Seasons",
+		"name": "Growing Pains",
+		"start": "September 24, 1985",
+		"end": "April 25, 1992",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/pains.jpg",
+		"link": "https://www.youtube.com/watch?v=blpwNN5k79U"
+	},
+	{
+		"id": 52,
+		"duration": "6 Seasons",
+		"name": "Adventures of the Gummi Bears",
+		"start": "September 14, 1985",
+		"end": "January 6, 1990",
+		"type":"Animated Television Series",
+		"img": "../src/img/gummy-bears.jpg",
+		"link": "https://www.youtube.com/watch?v=77wNujaN0x8"
+	},
+	{
+		"id": 53,
+		"duration": "9 Seasons",
+		"name": "Gunsmoke",
+		"start": "April 26, 1952",
+		"end": "June 18, 1961",
+		"type":"Western Drama Television Series",
+		"img": "../src/img/gunsmoke.jpg",
+		"link": "https://www.youtube.com/watch?v=8d3bqcvsqq4"
+	},
+	{
+		"id": 54,
+		"duration": "11 Seasons",
+		"name": "Happy Days",
+		"start": "January 15, 1974",
+		"end": "September 24, 1984",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/days.jpg",
+		"link": "https://www.youtube.com/watch?v=Hre2TtmAWBc"
+	},
+	{
+		"id": 55,
+		"duration": "6 Seasons",
+		"name": "Have Gun - Will Travel",
+		"start": "September 14, 1957",
+		"end": "April 20, 1963",
+		"type":"Western Series",
+		"img": "../src/img/gun.jpg",
+		"link": "https://www.youtube.com/watch?v=8u0VtRUMf1U"
+	},
+	{
+		"id": 56,
+		"duration": "12 Seasons",
+		"name": "Hawaii Five-O",
+		"start": "September 20, 1968",
+		"end": "April 5, 1980",
+		"type":"Police Procedural Drama Series",
+		"img": "../src/img/hawaii.jpg",
+		"link": "https://www.youtube.com/watch?v=DOHhcAufeJo"
+	},
+	{
+		"id": 57,
+		"duration": "5 Seasons",
+		"name": "Head of the Class",
+		"start": "September 17, 1986",
+		"end": "June 25, 1991",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/class.jpg",
+		"link": "https://www.youtube.com/watch?v=qnZROUBznno"
+	},
+	{
+		"id": 58,
+		"duration": "26 Seasons",
+		"name": "Hee Haw",
+		"start": "June 15, 1969",
+		"end": "December 27, 1997",
+		"type":"Television Variety Show",
+		"img": "../src/img/heehaw.jpg",
+		"link": "https://www.youtube.com/watch?v=kVTZMLAED34"
+	},
+	{
+		"id": 59,
+		"duration": "3 Seasons",
+		"name": "Herman's Head",
+		"start": "September 8, 1991",
+		"end": "April 21, 1994",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/herman.jpg",
+		"link": "https://www.youtube.com/watch?v=H8tzXFagaso"
+	},
+	{
+		"id": 60,
+		"duration": "5 Seasons",
+		"name": "Highway To Heaven",
+		"start": "September 19, 1984",
+		"end": "August 4, 1989",
+		"type": "Fantasy Drama Television Series",
+		"img": "../src/img/heaven.jpg",
+		"link": "https://www.youtube.com/watch?v=CBvjnqnMKhU"
+	},
+	{
+		"id": 61,
+		"duration": "7 Seasons",
+		"name": "Hill Street Blues",
+		"start": "January 15, 1981",
+		"end": "May 12, 1987",
+		"type": "Police Procedural Television Series",
+		"img": "../src/img/blues.jpg",
+		"link": "https://www.youtube.com/watch?v=oUX3TPKVf_Y"
+	},
+	{
+		"id": 62,
+		"duration": "6 Seasons",
+		"name": "Hogan's Heroes",
+		"start": "September 17, 1965",
+		"end": "April 4, 1971",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/heros.webp",
+		"link": "https://www.youtube.com/watch?v=CQyUn2mCKtg"
+	},
+	{
+		"id": 63,
+		"duration": "23 Seasons",
+		"name": "Hollywood Squares",
+		"start": "October 17, 1966",
+		"end": "June 4, 2004",
+		"type": "Television Game Show",
+		"img": "../src/img/hollywood.jpg",
+		"link": "https://www.youtube.com/watch?v=WZbLAPFmHdg"
+	},
+	{
+		"id": 64,
+		"duration": "8 Seasons",
+		"name": "Home Improvement",
+		"start": "September 17, 1991",
+		"end": "May 25, 1999",
+		"type":"Sitcom Television series",
+		"img": "../src/img/home.jpg",
+		"link": "https://www.youtube.com/watch?v=vHIOzsU0fbM"
+	},
+	{
+		"id": 65,
+		"duration": "1 Season",
+		"name": "Honeymooners",
+		"start": "October 1, 1955",
+		"end": "September 22, 1956",
+		"type":"Sitcom Television series",
+		"img": "../src/img/honeymooners.jpg",
+		"link": "https://www.youtube.com/watch?v=Gcp-ngsSQ6w"
+	},
+	{
+		"id": 66,
+		"duration": "7 Seasons",
+		"name": "Hunter",
+		"start": "September 18, 1984",
+		"end": "April 26, 1991",
+		"type": "Crime Drama Television Series",
+		"img": "../src/img/hunter.jpg",
+		"link": "https://www.youtube.com/watch?v=Cc-Ccs9WNBM"
+	},
+	{
+		"id": 67,
+		"duration": "5 Seasons",
+		"name": "I Dream Of Jeannie",
+		"start": "September 18, 1965",
+		"end": "May 26, 1970",
+		"type": "Fantasy Sitcom Television Series",
+		"img": "../src/img/jeannie.jpg",
+		"link": "https://www.youtube.com/watch?v=szECpTGoXFk"
+	},
+	{
+		"id": 68,
+		"duration": "6 Seasons",
+		"name": "I Love Lucy",
+		"start": "October 15, 1951",
+		"end": "May 6, 1957",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/lucy.jpg",
+		"link": "https://www.youtube.com/watch?v=-t4ql-r406Q"
+	},
+	{
+		"id": 69,
+		"duration": "3 Seasons",
+		"name": "I Married Joan",
+		"start": "October 15, 1952",
+		"end": "March 23, 1955",
+		"type": "Situation Comedy Series",
+		"img": "../src/img/joan.jpg",
+		"link": "https://www.youtube.com/watch?v=Lpkzj8J_5NA"
+	},
+	{
+		"id": 70,
+		"duration": "3 Years",
+		"name":"Inspector Gadget",
+		"start": "1983",
+		"end": "1986",
+		"type": "Animated Television Series",
+		"img": "../src/img/gadget.png",
+		"link": "https://www.youtube.com/watch?v=e-JHfXVlkik"
+	},
+	{
+		"id": 71,
+		"duration": "7 Seasons",
+		"name": "In The Heat Of The Night",
+		"start": "March 6, 1988",
+		"end": "May 16, 1995",
+		"type":"Crime Drama Television Series",
+		"img": "../src/img/heat.jpg",
+		"link": "https://www.youtube.com/watch?v=pMjOx_pm2Xg"
+	},
+	{
+		"id": 72,
+		"duration": "41 Seasons",
+		"name": "Jeopardy",
+		"start": "March 30, 1964",
+		"end": "Present",
+		"type":"Television Game Show",
+		"img": "../src/img/jeopardy.jpg",
+		"link": "https://www.youtube.com/watch?v=cu-UCWf86d4"
+	},
+	{
+		"id": 73,
+		"duration": "4 Seasons",
+		"name": "Knight Rider",
+		"start": "September 26, 1982",
+		"end": "April 4, 1986",
+		"type": "Action Crime Drama Television Series",
+		"img": "../src/img/knight.png",
+		"link": "https://www.youtube.com/watch?v=oNyXYPhnUIs"
+	},
+	{
+		"id": 74,
+		"duration": "14 Seasons",
+		"name": "Knots Landing",
+		"start": "December 27, 1979",
+		"end": "May 13, 1993",
+		"type": "Prime Time Television Soap Opera",
+		"img": "../src/img/knots.jpg",
+		"link": "https://www.youtube.com/watch?v=edzaiysEE_I"
+	},
+	{
+		"id": 75,
+		"duration": "8 Seasons",
+		"name": "L.A. Law",
+		"start": "September 15, 1986",
+		"end": "May 19, 1994",
+		"type": "Legal Drama Television Series",
+		"img": "../src/img/law.jpg",
+		"link": "https://www.youtube.com/watch?v=e7R6ycC_s1g"
+	},
+	{
+		"id": 76,
+		"duration": "19 Seasons",
+		"name": "Lassie",
+		"start": "September 12, 1954",
+		"end": "March 24, 1973",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/lassie.jpg",
+		"link": "https://www.youtube.com/watch?v=3zopwFjRVuk"
+	},
+	{
+		"id": 77,
+		"duration": "8 Seasons",
+		"name": "Laverne & Shirley",
+		"start": "January 27, 1976",
+		"end": "May 10, 1983",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/laverne.jpg",
+		"link": "https://www.youtube.com/watch?v=mRmKzxhMzwo"
+	},
+	{
+		"id": 78,
+		"duration": "6 Seasons",
+		"name": "Leave It To Beaver",
+		"start": "October 4, 1957",
+		"end": "June 20, 1963",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/beaver.jpg",
+		"link": "https://www.youtube.com/watch?v=wL4dOfgslio"
+	},
+	{
+		"id": 79,
+		"duration": "61 years",
+		"name": "Lets Make A Deal",
+		"start": "December 30, 1963",
+		"end": "Present",
+		"type":"Television Game Show",
+		"img": "../src/img/deal.jpg",
+		"link": "https://www.youtube.com/watch?v=4mYs6bfVq58"
+	},
+	{
+		"id": 80,
+		"duration": "9 Seasons",
+		"name": "Little House On The Prairie",
+		"start": "September 11, 1974",
+		"end": "May 10, 1982",
+		"type": "Western Historical Drama series",
+		"img": "../src/img/prairie.jpg",
+		"link": "https://www.youtube.com/watch?v=MawR-tA61dM"
+	},
+	{
+		"id": 81,
+		"duration": "39 Years",
+		"name": "Looney Tunes",
+		"start": "1930",
+		"end": "1969",
+		"type": "Animated Comedy Series",
+		"img": "../src/img/looney.jpg",
+		"link": "https://www.youtube.com/watch?v=viBJUZtxQFs"
+	},
+	{
+		"id": 82,
+		"duration": "9 Seasons",
+		"name": "Love Boat",
+		"start": "September 24, 1977",
+		"end": "February 27, 1987",
+		"type": "Comedy Drama Television Series",
+		"img": "../src/img/love.jpg",
+		"link": "https://www.youtube.com/watch?v=m_wFEB4Oxlo"
+	},
+	{
+		"id": 83,
+		"duration": "7 Seasons",
+		"name": "MacGyver",
+		"start": "September 29, 1985",
+		"end": "May 21, 1992",
+		"type": "Action-Adventure Television Series",
+		"img": "../src/img/macgyver.jpg",
+		"link": "https://www.youtube.com/watch?v=yOEe1uzurKo"
+	},
+	{
+		"id": 84,
+		"duration": "7 Seasons",
+		"name": "Marcus Welby, M.D.",
+		"start": "September 23, 1969",
+		"end": "July 29, 1976",
+		"type": "Medical Drama Television Program",
+		"img": "../src/img/welby.jpg",
+		"link": "https://www.youtube.com/watch?v=SlSVJiKxG1c"
+	},
+	{
+		"id": 85,
+		"duration": "8 Seasons",
+		"name": "Mad About You",
+		"start": "September 23, 1992",
+		"end": "May 24, 1999",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/mad.jpg",
+		"link": "https://www.youtube.com/watch?v=6xDqEwgDrzc"
+	},
+	{
+		"id": 86,
+		"duration": "8 Seasons",
+		"name": "Magnum, P.I.",
+		"start": "December 11, 1980",
+		"end": "May 8, 1988",
+		"type": "Crime Drama Television Series",
+		"img": "../src/img/magnum.jpg",
+		"link": "https://www.youtube.com/watch?v=xIaXl7SqkBw"
+	},
+	{
+		"id": 87,
+		"duration": "11 Seasons",
+		"name": "Make Room For Daddy",
+		"start": "September 29, 1953",
+		"end": "April 27, 1964",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/daddy.jpg",
+		"link": "https://www.youtube.com/watch?v=y1LGInpoLGg"
+	},
+    {
+		"id": 88,
+		"duration": "6 Seasons",
+		"name": "Mama's Family",
+		"start": "January 22, 1983",
+		"end": "February 24, 1990",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/mama.jpg",
+		"link": "https://www.youtube.com/watch?v=CIxeTNyCmLE"
+	},
+	{
+		"id": 89,
+		"duration": "11 Seasons",
+		"name": "Married With Children",
+		"start": "April 5, 1987",
+		"end": "June 9, 1997",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/married.jpg",
+		"link": "https://www.youtube.com/watch?v=yySA13fjXOE"
+	},
+	{
+		"id": 90,
+		"duration": "11 Seasons",
+		"name": "M*A*S*H",
+		"start": "September 17, 1972",
+		"end": "February 28, 1983",
+		"type": "War Comedy Drama Television Series",
+		"img": "../src/img/mash.jpg",
+		"link": "https://www.youtube.com/watch?v=N4hzRHuDZ4I"
+	},
+	{
+		"id": 91,
+		"duration": "2 Seasons",
+		"name": "Masters Of The Universe",
+		"start": "September 5, 1983",
+		"end": "November 21, 1985",
+		"type": "Animated Television Series",
+		"img": "../src/img/masters.jpg",
+		"link": "https://www.youtube.com/watch?v=VnBbW3g5y5Q"
+	},
+	{
+		"id": 92,
+		"duration": "27 Seasons",
+		"name": "Match Game",
+		"start": "December 31, 1962",
+		"end": "July 28, 2021",
+		"type": "Television Game Show",
+		"img": "../src/img/match-game.jpg",
+		"link": "https://www.youtube.com/watch?v=VFxspObaHOw"
+	},
+	{
+		"id": 93,
+		"duration": "9 Seasons",
+		"name": "Matlock",
+		"start": "March 3, 1986",
+		"end": "May 8, 1992",
+		"type": "Mystery Legal Drama Television Series",
+		"img": "../src/img/matlock.jpg",
+		"link": "https://www.youtube.com/watch?v=SQgdfJoxX1s"
+	},
+	{
+		"id": 94,
+		"duration": "6 Seasons",
+		"name": "Maude",
+		"start": "September 12, 1972",
+		"end": "April 22, 1978",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/maude.jpg",
+		"link": "https://www.youtube.com/watch?v=lZ6VMLVLWUw"
+	},
+	{
+		"id": 95,
+		"duration": "4 Seasons",
+		"name": "McHale's Navy",
+		"start": "October 11, 1962",
+		"end": "April 12, 1966",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/navy.jpg",
+		"link": "https://www.youtube.com/watch?v=HNvibK9jgYA"
+	},
+	{
+		"id": 96,
+		"duration": "5 Seasons",
+		"name": "Miami Vice",
+		"start": "September 16, 1984",
+		"end": "January 25, 1990",
+		"type": "Crime Drama Television Series",
+		"img": "../src/img/vice.jpg",
+		"link": "https://www.youtube.com/watch?v=2qZOmcMwpgM"
+	},
+	{
+		"id": 97,
+		"duration": "7 Seasons",
+		"name": "Mission: Impossible",
+		"start": "September 17, 1966",
+		"end": "March 30, 1973",
+		"type": "Television Series",
+		"img": "../src/img/mission.jpg",
+		"link": "https://www.youtube.com/watch?v=GipHJHVpP6g"
+	},
+	{
+		"id": 98,
+		"duration": "3 Seasons",
+		"name": "Mister T",
+		"start": "September 17, 1983",
+		"end": "October 19, 1985",
+		"type": "Animated Television Series",
+		"img": "../src/img/t.jpg",
+		"link": "https://www.youtube.com/watch?v=5K-cQCREscQ"
+	},
+	{
+		"id": 99,
+		"duration": "4 Seasons",
+		"name": "Mork & Mindy",
+		"start": "September 14, 1978",
+		"end": "May 27, 1982",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/mork.jpg",
+		"link": "https://www.youtube.com/watch?v=uPrIll6aLgI&vl=en"
+	},
+	{
+		"id": 100,
+		"duration": "6 Seasons",
+		"name": "Mr. Belvedere",
+		"start": "March 15, 1985",
+		"end": "July 8, 1990",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/belvedere.jpg",
+		"link": "https://www.youtube.com/watch?v=GPhojHwGjkE"
+	},
+	{
+		"id": 101,
+		"duration": "6 Seasons",
+		"name": "Mr Ed",
+		"start": "January 5, 1961",
+		"end": "February 6, 1966",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/ed.jpg",
+		"link": "https://www.youtube.com/watch?v=QwLfI0LW_mg"
+	},
+	{
+		"id": 102,
+		"duration": "11 Seasons",
+		"name": "Murphy Brown",
+		"start": "November 14, 1988",
+		"end": "May 18, 1998",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/brown.png",
+		"link": "https://www.youtube.com/watch?v=dBOwPHRZ4l0"
+	},
+	{
+		"id": 103,
+		"duration": "3 Seasons",
+		"name": "My Favorite Martian",
+		"start": "September 29, 1963",
+		"end": "May 1, 1966",
+		"type": "Science Fiction Television Sitcom",
+		"img": "../src/img/martian.jpg",
+		"link": "https://www.youtube.com/watch?v=7piG2V17cH8"
+	},
+	{
+		"id": 104,
+		"duration": "12 Seasons",
+		"name": "My Three Sons",
+		"start": "September 29, 1960",
+		"end": "April 13, 1972",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/sons.jpg",
+		"link": "https://www.youtube.com/watch?v=htETnX9p__I"
+	},
+	{
+		"id": 105,
+		"duration": "3 Seasons",
+		"name": "My Two Dads",
+		"start": "September 20, 1987",
+		"end": "April 30, 1990",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/dads.jpg",
+		"link": "https://www.youtube.com/watch?v=LHXeo57xj3k"
+	},
+	{
+		"id": 106,
+		"duration": "11 Seasons",
+		"name": "Name That Tune",
+		"start": "1974",
+		"end": "Present",
+		"type": "Television Game Show",
+		"img": "../src/img/tune.webp",
+		"link": "https://www.youtube.com/watch?v=nFBKDe44NGg"
+	},
+	{
+		"id": 107,
+		"duration": "9 Seasons",
+		"name": "Night Court",
+		"start": "January 4, 1984",
+		"end": "May 31, 1992",
+		"type": "Sitcom Television series",
+		"img": "../src/img/court.jpg",
+		"link": "https://www.youtube.com/watch?v=tUltrX-ICew"
+	},
+	{
+		"id": 108,
+		"duration": "2 Seasons",
+		"name": "Our House",
+		"start": "September 11, 1986",
+		"end": "May 8, 1988",
+		"type": "Drama Television Series",
+		"img": "../src/img/house.jpg",
+		"link": "https://www.youtube.com/watch?v=AKNmBPDbJZY"
+	},
+	{
+		"id": 109,
+		"duration": "3 Seasons",
+		"name": "Patty Duke",
+		"start": "September 18, 1963",
+		"end": "April 27, 1966",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/patty.jpg",
+		"link": "https://www.youtube.com/watch?v=qQTqKcojrVY"
+	},
+	{
+		"id": 110,
+		"duration": "8 Seasons",
+		"name": "Perfect Strangers",
+		"start": "March 25, 1986",
+		"end": "August 6, 1993",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/strangers.jpg",
+		"link": "https://www.youtube.com/watch?v=8vbnLYROCj8"
+	},
+	{
+		"id": 111,
+		"duration": "9 Seasons",
+		"name": "Perry Mason",
+		"start": "September 21, 1957",
+		"end": "May 22, 1966",
+		"type": "Legal Drama Television Series",
+		"img": "../src/img/mason.gif",
+		"link": "https://www.youtube.com/watch?v=2zlG-i2J6qI"
+	},
+	{
+		"id": 112,
+		"duration": "7 Seasons",
+		"name": "Petticoat Junction",
+		"start": "September 24, 1963",
+		"end": "April 24, 1970",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/petticoat.webp",
+		"link": "https://www.youtube.com/watch?v=Pd9WJNy7B9s"
+	},
+	{
+		"id": 113,
+		"duration": "25 Years",
+		"name": "Popeye the Sailor",
+		"start": "July 14, 1933",
+		"end": "August 9, 1957",
+		"type": "Animated Television Series",
+		"img": "../src/img/popeye.webp",
+		"link": "https://www.youtube.com/watch?v=grtchH6SfGE"
+	},
+	{
+		"id": 114,
+		"duration": "3 seasons",
+		"name": "Press Your Luck",
+		"start": "September 19, 1983",
+		"end": "September 26, 1986",
+		"type": "Television Game Show",
+		"img": "../src/img/luck.png",
+		"link": "https://www.youtube.com/watch?v=puG5_hPBcOc"
+	},
+	{
+		"id": 115,
+		"duration": "4 Seasons",
+		"name": "Punky Brewster",
+		"start": "September 16, 1984",
+		"end": "March 9, 1986",
+		"type": "Sitcom Television series",
+		"img":"../src/img/punky.jpg",
+		"link": "https://www.dailymotion.com/video/x3ubi0b"
+	},
+	{
+		"id": 116,
+		"duration": "5 Seasons",
+		"name": "Quantum Leap",
+		"start": "March 25, 1989",
+		"end": "May 5, 1993",
+		"type": "Science Fiction Television Series",
+		"img": "../src/img/leap.jpg",
+		"link": "https://www.youtube.com/watch?v=DjK9GJMBpt0"
+	},
+	{
+		"id": 117,
+		"duration": "8 Seasons",
+		"name": "Rawhide",
+		"start": "January 9, 1959",
+		"end": "December 7, 1965",
+		"type": "Western Television Series",
+		"img": "../src/img/rawhide.jpg",
+		"link": "https://www.youtube.com/watch?v=AKC8pSFg1Vw"
+	},
+	{
+		"id": 118,
+		"duration": "10 Seasons",
+		"name": "Roseanne",
+		"start": "October 18, 1988",
+		"end": "May 20, 1997",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/roseanne.jpg",
+		"link": "https://www.youtube.com/watch?v=iSE51IAUZ3M"
+	},
+	{
+		"id": 119,
+		"duration": "12 Seasons",
+		"name": "Sale of the Century",
+		"start": "September 29, 1969",
+		"end": "March 24, 1989",
+		"type": "Television Game Show",
+		"img": "../src/img/century.jpg",
+		"link": "https://www.youtube.com/watch?v=kLQ_c-40xGs"
+	},
+	{
+		"id": 120,
+		"duration": "6 Seasons",
+		"name": "Sanford and Son",
+		"start": "January 14, 1972",
+		"end": "march 25, 1977",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/sanford.jpg",
+		"link": "https://www.youtube.com/watch?v=j9z4zPKHbrA"
+	},
+	{
+		"id": 121,
+		"duration": "4 Seasons",
+		"name": "Saved By The Bell",
+		"start": "August 20, 1989",
+		"end": "May 22, 1993",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/saved.jpg",
+		"link": "https://www.youtube.com/watch?v=wAh5IwiD4N8"
+	},
+	{
+		"id": 122,
+		"duration": "2 Seasons",
+		"name": "Scooby-Doo, Where Are You!",
+		"start": "September 13, 1969",
+		"end": "October 31, 1970",
+		"type": "Animated Mystery Comedy Television Series",
+		"img": "../src/img/scooby.jpg",
+		"link": "https://www.youtube.com/watch?v=nIcPumeZhew"
+	},
+	{
+		"id": 123,
+		"duration": "7 Seasons",
+		"name": "Scrabble",
+		"start": "July 2, 1984",
+		"end": "March 23, 1990",
+		"type": "Television Game Show",
+		"img": "../src/img/scrabble.jpg",
+		"link": "https://www.youtube.com/watch?v=iliCKnHxJiQ"
+	},
+	{
+		"id": 124,
+		"duration": "9 Seasons",
+		"name": "Seinfield",
+		"start": "July 5, 1989",
+		"end": "May 14, 1998",
+		"type": "Sitcom Television series",
+		"img": "../src/img/seinfield.jpg",
+		"link": "https://www.youtube.com/watch?v=_3Z_UISDg1E"
+	},
+	{
+		"id": 125,
+		"duration": "5 seasons",
+		"name": "Silver Spoons",
+		"Start": "September 25, 1982",
+		"end": "May 11, 1986",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/silver.jpg",
+		"link": "https://www.youtube.com/watch?v=Vk91ymiO3iA"
+	},
+	{
+		"id": 126,
+		"duration": "1 season",
+		"name": "Shaft",
+		"Start": "October 9, 1973",
+		"end": "February 19, 1974",
+		"type": "Television Movies Series",
+		"img": "../src/img/shaft.jpg",
+		"link": "https://www.youtube.com/watch?v=fOQpkYnGQ1I"
+
+	},
+	{
+		"id": 127,
+		"duration": "2 Seasons",
+		"name": "She-Ra: Princess Of Power",
+		"start": "September 9, 1985",
+		"end": "December 2, 1986",
+		"type": "Animated Television Series",
+		"img": "../src/img/shera.jpg",
+		"link": "https://www.youtube.com/watch?v=0caFXKguGaE"
+	},
+	{
+		"id": 128,
+		"duration": "4 Seasons",
+		"name": "Small Wonder",
+		"start": "September 7, 1985",
+		"end": "May 20, 1989",
+		"type": "Comedy Science Fiction Sitcom",
+		"img": "../src/img/wonder.jpg",
+		"link": "https://www.youtube.com/watch?v=go2mq3gs_3Y"
+	},
+	{
+		"id": 129,
+		"duration": "4 Seasons",
+		"name": "Snorks",
+		"start": "September 15, 1984",
+		"end": "May 13, 1989",
+		"type": "Animated Television Series",
+		"img": "../src/img/snorks.jpg",
+		"link": "https://www.youtube.com/watch?v=I4ALjDSsMd4"
+	},
+	{
+		"id": 130,
+		"duration": "3 Seasons",
+		"name": "Star Trek: The Original Series",
+		"start": "September 8, 1966",
+		"end": "June 3, 1969",
+		"type": "Science Fiction Television Series",
+		"img": "../src/img/star.jpg",
+		"link": "https://www.youtube.com/watch?v=hdjL8WXjlGI"
+	},
+	{
+		"id": 131,
+		"duration": "6 Seasons",
+		"name": "St. Elsewhere",
+		"start": "October 26, 1982",
+		"end": "May 25, 1988",
+		"type": "Medical Drama Television Series",
+		"img": "../src/img/elsewhere.jpeg",
+		"link": "https://www.youtube.com/watch?v=bFHTNBZKWjE"
+	},
+	{
+		"id": 132,
+		"duration": "5 Seasons",
+		"name": "Taxi",
+		"start": "September 12, 1978",
+		"end": "June 15, 1983",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/taxi.jpg",
+		"link": "https://www.youtube.com/watch?v=7VCJXj-WG-s"
+	},
+	{
+		"id": 133,
+		"duration": "2 Seasons",
+		"name": "The Addams Family",
+		"start": "September 18, 1964",
+		"end": "April 8, 1966",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/addams.jpg",
+		"link": "https://www.youtube.com/watch?v=cfawtDT945o"
+	},
+	{
+		"id": 134,
+		"duration": "14 Seasons",
+		"name": "The Adventures Of Ozzie And Harriet",
+		"start": "October 3, 1952",
+		"end": "April 23, 1966",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/ozzie.jpg",
+		"link": "https://www.youtube.com/watch?v=098_p7rrUuA"
+	},
+	{
+		"id": 135,
+		"duration": "8 Seasons",
+		"name": "The Andy Griffith Show",
+		"start": "October 3, 1960",
+		"end": "April 1, 1968",
+		"type": "Comedy Television Series",
+		"img": "../src/img/griffith.jpg",
+		"link": "https://www.youtube.com/watch?v=TvSXdO7SDCE"
+	},
+	{
+		"id": 136,
+		"duration": "5 Seasons",
+		"name": "The A-Team",
+		"start": "January 23, 1983",
+		"end": "March 8, 1987",
+		"type": "Action Adventure Television Series",
+		"img": "../src/img/ateam.png",
+		"link": "https://www.youtube.com/watch?v=Cn6kEsloMdE"
+	},
+	{
+		"id": 137,
+		"duration": "6 Seasons",
+		"name": "The Avengers",
+		"start": "January 7, 1961",
+		"end": "May 21, 1969",
+		"type": "British Espionage Television Programme",
+		"img": "../src/img/avengers.jpg",
+		"link": "https://www.youtube.com/watch?v=AgEqMsfDGnQ"
+	},
+	{
+		"id": 138,
+		"duration": "4 Seasons",
+		"name": "The Big Valley",
+		"start": "September 15, 1965",
+		"end": "May 19, 1969",
+		"type": "Western Drama Television Series",
+		"img": "../src/img/valley.jpg",
+		"link": "https://www.youtube.com/watch?v=Pg3HcxYcbog"
+	},
+	{
+		"id": 139,
+		"duration": "6 Seasons",
+		"name": "The Bob Newhart Show",
+		"start": "September 16, 1972",
+		"end": "April 1, 1978",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/newhart.jpg",
+		"link": "https://www.youtube.com/watch?v=V-PLEhiOeVA"
+	},
+	{
+		"id": 140,
+		"duration": "5 Seasons",
+		"name": "The Brady Bunch",
+		"start": "September 26, 1969",
+		"end": "March 8, 1974",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/brady.jpg",
+		"link": "https://www.youtube.com/watch?v=d7vLzfprLNY" 
+	},
+	{
+		"id": 141,
+		"duration": "11 Seasons",
+		"name": "The Carol Burnett Show",
+		"start": "September 11, 1967",
+		"end": "March 29, 1978",
+		"type": "Variety/Sketch Comedy Television Show",
+		"img": "../src/img/burnett.jpg",
+		"link": "https://www.youtube.com/watch?v=VR21DRz62IE"
+	},
+	{
+		"id": 142,
+		"duration": "8 Seasons",
+		"name": "The Cosby Show",
+		"start": "September 20, 1984",
+		"end": "April 30, 1992",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/cosby.jpeg",
+		"link": "https://www.youtube.com/watch?v=UsddoySxOJo"
+	},
+	{
+		"id": 143,
+		"duration": "5 Seasons",
+		"name": "The Dick Van Dyke Show",
+		"start": "October 3, 1961",
+		"end": "June 1, 1966",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/dick.jpg",
+		"link": "https://www.youtube.com/watch?v=FTMSUtwFp3M"
+	},
+	{
+		"id": 144,
+		"duration": "6 Seasons",
+		"name": "The Dukes of Hazzard",
+		"start": "January 26, 1979",
+		"end": "February 8, 1985",
+		"type": "Action Comedy Television Series",
+		"img": "../src/img/dukes.jpg",
+		"link": "https://www.youtube.com/watch?v=67gig0f4HLo"
+	},
+	{
+		"id": 145,
+		"duration": "9 Seasons",
+		"name": "The Facts Of Life",
+		"start": "August 24, 1979",
+		"end": "May 7, 1988",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/facts.jpg",
+		"link": "https://www.youtube.com/watch?v=39yNQqu4fTI"
+	},
+    {
+		"id": 146,
+		"duration": "6 Seasons",
+		"name": "The Flinstones",
+		"start": "September 30, 1960",
+		"end": "April 1, 1966",
+		"type": "Animated Sitcom Television Series",
+		"img": "../src/img/flintstones.png",
+		"link": "https://www.youtube.com/watch?v=_W7tQ1tgWK0"
+	},
+	{
+		"id": 147,
+		"duration": "6 Seasons",
+		"name": "The Fresh Prince Of Bel-Air",
+		"start": "September 10, 1990",
+		"end": "May 20, 1996",
+		"type": "Sitcom Television series",
+		"img": "../src/img/prince.jpg",
+		"link": "https://www.youtube.com/watch?v=hBe0VCso0qs"
+	},
+	{
+		"id": 148,
+		"duration": "7 Seasons",
+		"name": "The Golden Girls",
+		"start": "September 14, 1985",
+		"end": "May 9, 1992",
+		"type": "Sitcom Television series",
+		"img": "../src/img/golden.jpg",
+		"link": "https://www.youtube.com/watch?v=KiQzUEc_FmI"
+	},
+	{
+		"id": 149,
+		"duration": "3 Seasons",
+		"name": "The Greatest American Hero",
+		"start": "March 18, 1981",
+		"end": "February 3, 1983",
+		"type": "Comedy Drama Superhero Television series",
+		"img": "../src/img/hero.jpg",
+		"link": "https://www.youtube.com/watch?v=IzfockTg57g"
+	},
+	{
+		"id": 150,
+		"duration": "9 Seasons",
+		"name": "The King of Queens",
+		"start": "September 21, 1998",
+		"end": "May 14, 2007",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/king-of-queens.jpg",
+		"link": "https://www.youtube.com/watch?v=QVwr8lrQ2ww"
+	},
+	{
+		"id": 151,
+		"duration": "5 Seasons",
+		"name": "The Incredible Hulk",
+		"start": "November 4, 1977",
+		"end": "May 12, 1982",
+		"type": "American Television Series",
+		"img": "../src/img/hulk.jpg",
+		"link": "https://www.youtube.com/watch?v=M7Hh063ZtsA"
+	},
+	{
+		"id": 152,
+		"duration": "11 Seasons",
+		"name": "The Jeffersons",
+		"start": "January 18, 1975",
+		"end": "July 2, 1985",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/jeffersons.jpg",
+		"link": "https://www.youtube.com/watch?v=_-OnRQ4P0VY"
+	},
+	{
+		"id": 153,
+		"duration": "3 Seasons",
+		"name": "The Jetsons",
+		"start": "September 23, 1962",
+		"end": "March 17, 1963",
+		"type": "Animated Sitcom Television Series",
+		"img": "../src/img/jetsons.jpg",
+		"link": "https://www.youtube.com/watch?v=FyinD6ZDqeg"
+	},
+	{
+		"id": 154,
+		"duration": "22 Years",
+		"name": "The Little Rascals",
+		"start": "September 10, 1922",
+		"end": "April 29, 1944",
+		"type": "Comedy Short Films Series",
+		"img": "../src/img/rascals.jpg",
+		"link": "https://www.youtube.com/watch?v=nkM0m-fB2Uw"
+	},
+	{
+		"id": 155,
+		"duration": "5 Seasons",
+		"name": "The Lone Ranger",
+		"start": "September 15, 1949",
+		"end": "June 6, 1957",
+		"type": "Western Drama Television Series",
+		"img": "../src/img/ranger.jpg",
+		"link": "https://www.youtube.com/watch?v=p9lf76xOA5k"
+	},
+	{
+		"id": 156,
+		"duration": "4 Seasons",
+		"name": "The Many Loves of Dobi Gillis",
+		"start": "September 29, 1959",
+		"end": "June 5, 1963",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/dobi.jpg",
+		"link": "https://www.youtube.com/watch?v=m-dD3e6ASkg"
+	},
+	{
+		"id": 157,
+		"duration": "7 Seasons",
+		"name": "The Mary Tyler Moore Show",
+		"start": "September 19, 1970",
+		"end": "March 19, 1977",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/mary.jpg",
+		"link": "https://www.youtube.com/watch?v=2c1-S21arfg"
+	},
+	{
+		"id": 158,
+		"duration": "2 Seasons",
+		"name": "The Munsters",
+		"start": "September 24, 1964",
+		"end": "May 12, 1966",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/munsters.png",
+		"link": "https://www.youtube.com/watch?v=r94_IgAMoSs"
+	},
+	{
+		"id": 159,
+		"duration": "5 Seasons",
+		"name": "The Muppet Show",
+		"start": "September 5, 1976",
+		"end": "May 23, 1981",
+		"type":"Comedy Television Series",
+		"img": "../src/img/muppet.jpg",
+		"link": "https://www.youtube.com/watch?v=hEinCgoA48E"
+	},
+	{
+		"id": 160,
+		"duration": "5 Seasons",
+		"name": "The Odd Couple",
+		"start": "September 24, 1970",
+		"end": "March 7, 1975",
+		"type":"Sitcom Television Series",
+		"img": "../src/img/odd.jpg",
+		"link": "https://www.youtube.com/watch?v=qV0_EFO_CS4"
+	},
+	{
+		"id": 161,
+		"duration": "4 Seasons",
+		"name": "The Partridge Family",
+		"start": "September 25, 1970",
+		"end": "March 23, 1974",
+		"type":"Musical Sitcom Television Series",
+		"img": "../src/img/partridge.jpg",
+		"link": "https://www.youtube.com/watch?v=98j-33IWCFU"
+	},
+	{
+		"id": 162,
+		"duration": "53 Seasons",
+		"name": "The Price is Right",
+		"start": "September 4, 1972",
+		"end": "Present",
+		"type":"Television Game Show",
+		"img": "../src/img/price.jpg",
+		"link": "https://www.youtube.com/watch?v=O_ZD-cd2Y2k"
+	},
+	{
+		"id": 163,
+		"duration": "32 Seasons",
+		"name": "The Simpsons",
+		"start": "December 17, 1989",
+		"end": "Present",
+		"type": "Animated Sitcom Television Series",
+		"img": "../src/img/simpsons.jpg",
+		"link": "https://www.youtube.com/watch?v=XNzoJqzA6zM"
+	},
+	{
+		"id": 164,
+		"duration": "9 Seasons",
+		"name": "The Smurfs",
+		"start": "September 12, 1981",
+		"end": "December 2, 1989",
+		"type": "Animated Fantasy Comedy Children's Television Series",
+		"img": "../src/img/smurfs.jpg",
+	    "link": "https://www.youtube.com/watch?v=SJv5C-maMa0"
+	},
+	{
+		"id": 165,
+		"duration": "6 Seasons",
+		"name": "The Steve Harvey Show",
+		"start": "August 25, 1996",
+		"end": "February 17, 2002",
+		"type": "Television Sitcom Series",
+		"img": "../src/img/harvey.jpg",
+	    "link": "https://www.youtube.com/watch?v=ngUUYv-4qog"
+	},
+	{
+		"id": 166,
+		"duration": "48 Years",
+		"name": "The Three Stooges",
+		"start": "1922",
+		"end": "1970",
+		"type": "Comedy Team Television Series",
+		"img": "../src/img/stooges.jpg",
+		"link": "https://www.youtube.com/watch?v=g2nPoSWtv-k"
+	},
+	{
+		"id": 167,
+		"duration": "9 Seasons",
+		"name": "The Waltons",
+		"start": "September 14, 1972",
+		"end": "June 4, 1981",
+		"type": "Drama Television Series",
+		"img": "../src/img/waltons.jpg",
+		"link": "https://www.youtube.com/watch?v=x5LQ5k-bjbE"
+	},
+	{
+		"id": 168,
+		"duration": "6 Seasons",
+		"name": "The Wonder Years",
+		"start": "March 15, 1988",
+		"end": "May 12, 1993",
+		"type": "Comedy Drama Television Series",
+		"img": "../src/img/years.png",
+		"link": "https://www.youtube.com/watch?v=-Ob59hsRaFU"
+	},
+	{
+		"id": 169,
+		"duration": "8 Seasons",
+		"name": "Three's Company",
+		"start": "March 15, 1977",
+		"end": "September 18, 1984",
+		"type": "Sitcom Television series",
+		"img": "../src/img/company.jpg",
+		"link": "https://www.youtube.com/watch?v=VwIvA6dGqJ0&list=PLQCC5mMKVN66MIk2ZncIAgxnYxqZYpAIo&index=17"
+	},
+	{
+		"id": 170,
+		"duration": "85 years",
+		"name": "Tom and Jerry",
+		"start": "1940",
+		"end": "Present",
+		"type": "Animated Television series",
+		"img": "../src/img/tom-and-jerry.jpg",
+		"link": "https://www.youtube.com/watch?v=zeAlFwuP7Vw"
+	},
+	{
+		"id": 171,
+		"duration": "6 Seasons",
+		"name": "Webster",
+		"start": "September 16, 1983",
+		"end": "May 8, 1987",
+		"type": "Sitcom Television series",
+		"img": "../src/img/webster.jpg",
+		"link": "https://www.youtube.com/watch?v=HsjFsfNQjFM"
+	},
+	{
+		"id": 172,
+		"duration": "4 Seasons",
+		"name": "Welcome Back, Kotter",
+		"start": "September 9, 1975",
+		"end": "May 17, 1979",
+		"type": "Sitcom Television series",
+		"img": "../src/img/kotter.jpg",
+		"link": "https://www.youtube.com/watch?v=Mmm3KTa601s&list=PLLuToK61MQi66aFjaHFw5qmwEafMmLwxb&index=4"
+	},
+	{
+		"id": 173,
+		"duration": "42 Seasons",
+		"name": "Wheel of Fortune",
+		"start": "January 6, 1975",
+		"end": "Present",
+		"type": "Television Game Show",
+		"img": "../src/img/fortune.webp",
+		"link": "https://www.youtube.com/watch?v=8Y0zp-yeTh4"
+	},
+    {
+		"id": 174,
+		"duration": "8 Seasons",
+		"name": "Who's The Boss",
+		"start": "September 20, 1984",
+		"end": "April 25, 1992",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/boss.jpg",
+		"link": "https://www.youtube.com/watch?v=u0iuXeOfmdQ"
+	},
+	{
+		"id": 175,
+		"duration": "8 Seasons",
+		"name": "Wings",
+		"start": "April 19, 1990",
+		"end": "May 21, 1997",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/wings.jpg",
+		"link": "https://www.youtube.com/watch?v=EV-XQvbmLYU"
+	},
+	{
+		"id": 176,
+		"duration": "4 Seasons",
+		"name": "WKRP in Cincinnati",
+		"start": "September 18, 1978",
+		"end": "April 21, 1982",
+		"type": "Sitcom Television Series",
+		"img": "../src/img/wkrp.jpg",
+		"link": "https://www.youtube.com/watch?v=jPksb4R0oxo"
+	}
+  ]
+
+  
+
