@@ -6,7 +6,7 @@
 		"start": "April 12, 1987",
 		"end": "April 27, 1991",
 		"type": "Police Procedural Television Series",
-		"img": "/images/street.png",
+		"img": "../public/images/street.png",
 		"link": "https://www.youtube.com/watch?v=AcoHG1iOiYo"
 	},
 	{
@@ -16,7 +16,7 @@
 		"start": "September 14, 1985",
 		"end": "May 6, 1990",
 		"type": "Sitcom Television series",
-		"img": "/images/227.jpg",
+		"img": "../public/images/227.jpg",
 		"link": "https://www.youtube.com/watch?v=HlAvaED3ACI"
 	},
 	{
@@ -26,7 +26,7 @@
 		"start": "January 9, 1996",
 		"end": "May 22, 2001",
 		"type": "Sitcom Television series",
-		"img": "/images/sun.jpg",
+		"img": "../public/images/sun.jpg",
 		"link": "https://www.youtube.com/watch?v=sBQ9yToAsFU"
 	},
 	{
@@ -36,7 +36,7 @@
 		"start": "September 21, 1968",
 		"end": "May 20, 1975",
 		"type": "Television Police Procedural Drama",
-		"img": "/images/adam12.jpg",
+		"img": "../public/images/adam12.jpg",
 		"link": "https://www.youtube.com/watch?v=zi0f0tzEIIY"
 	},
 	{
@@ -46,7 +46,7 @@
 		"start": "September 24, 1987",
 		"end": "July 9, 1993",
 		"type": "Sitcom Television series",
-		"img": "/images/different.jpg",
+		"img": "../public/images/different.jpg",
 		"link": "https://www.youtube.com/watch?v=acvFhBiI31A"
 	},
 	{
@@ -56,7 +56,7 @@
 		"start": "September 22, 1986",
 		"end": "March 24, 1990",
 		"type": "Sitcom Television series",
-		"img": "/images/alf.jpg",
+		"img": "../public/images/alf.jpg",
 		"link": "https://www.youtube.com/watch?v=-NVr-vXIa-A"
 	},
 	{
@@ -66,7 +66,7 @@
 		"start": "August 31, 1976",
 		"end": "March 19, 1985",
 		"type": "Sitcom Television Series",
-		"img": "/images/alice.jpg",
+		"img": "../public/images/alice.jpg",
 		"link": "https://www.youtube.com/watch?v=2iM6PcJFLow"
 	},
 	{
@@ -76,7 +76,7 @@
 		"start": "January 12, 1971",
 		"end": "April 8, 1979",
 		"type": "Sitcom Television Series",
-		"img": "/images/family.jpg",
+		"img": "../public/images/family.jpg",
 		"link": "https://www.youtube.com/watch?v=fye4uY3pCvo"
 	},
 	{
@@ -86,7 +86,7 @@
 		"start": "September 17, 1983",
 		"end": "December 1, 1990",
 		"type": "Animated Television Series",
-		"img": "/images/chipmunks.jpg",
+		"img": "../public/images/chipmunks.jpg",
 		"link": "https://www.youtube.com/watch?v=cZmE5fJYumE"
 	},
 	{
@@ -96,7 +96,7 @@
 		"start": "January 12, 1966",
 		"end": "March 14, 1968",
 		"type": "Live Action Television Series",
-		"img": "/images/batman.jpg",
+		"img": "../public/images/batman.jpg",
 		"link": "https://www.youtube.com/watch?v=1jgE-lrfZ3k"
 	},
 	{
@@ -106,7 +106,7 @@
 		"start": "September 22, 1989",
 		"end": "May 14, 2001",
 		"type": "Action Drama Television Series",
-		"img":"/images/baywatch.jpg",
+		"img":"../public/images/baywatch.jpg",
 		"link": "https://www.youtube.com/watch?v=O0nqwgu_Us4"
 	},
 	{
@@ -116,7 +116,7 @@
 		"start": "March 8, 1993",
 		"end": "November 28, 1997",
 		"type": "Animated Sitcom Television Series",
-		"img":"/images/beavis.png",
+		"img":"../public/images/beavis.png",
 		"link": "https://www.youtube.com/watch?v=KPeePg2N6QM"
 	},
 	{
@@ -126,7 +126,7 @@
 		"start": "September 26, 1962",
 		"end": "March 23, 1971",
 		"type": "Sitcom Television Series",
-		"img":"/images/hillbillies.jpg",
+		"img":"../public/images/hillbillies.jpg",
 		"link": "https://www.youtube.com/watch?v=wQ1TgMXqZ6Y"
 	},
 	{
@@ -136,7 +136,7 @@
 		"start": "October 4, 1990",
 		"end": "May 17, 2000",
 		"type": "American Teen Drama",
-		"img":"/images/beverly-hills.webp",
+		"img":"../public/images/beverly-hills.webp",
 		"link": "https://www.youtube.com/watch?v=JDOrOMuo-9o"
 	},
 	{
@@ -146,7 +146,7 @@
 		"start": "September 17, 1964",
 		"end": "March 25, 1972",
 		"type": "Sitcom Television Series",
-		"img":"/images/bewitched.jpg",
+		"img":"../public/images/bewitched.jpg",
 		"link": "https://www.youtube.com/watch?v=3p2Q7vs4bQk"
 	},
 	{
@@ -156,7 +156,7 @@
 		"start": "January 3, 1991",
 		"end": "May 22, 1995",
 		"type": "Sitcom Television Series",
-		"img": "/images/blossom.jpg",
+		"img": "../public/images/blossom.jpg",
 		"link": "https://www.youtube.com/watch?v=QkYMU9vZ-lc"
 	},
 	{
@@ -166,7 +166,7 @@
 		"start": "September 12, 1959",
 		"end": "January 16, 1983",
 		"type": "Western Television Series",
-		"img": "/images/bonanza.jpg",
+		"img": "../public/images/bonanza.jpg",
 		"link": "https://www.youtube.com/watch?v=iQjb_QiFbJE"
 	},
 	{
@@ -176,7 +176,7 @@
 		"start": "September 24, 1993",
 		"end": "May 5, 2000",
 		"type": "Sitcom Television series",
-		"img": "/images/world.jpg",
+		"img": "../public/images/world.jpg",
 		"link": "https://www.youtube.com/watch?v=5A3eZktOA_g"
 	},
 	{
@@ -186,7 +186,7 @@
 		"start": "September 12, 1992",
 		"end": "December 14, 1996",
 		"type": "Sitcom Television series",
-		"img": "/images/california-dreams.jpg",
+		"img": "../public/images/california-dreams.jpg",
 		"link": "https://www.youtube.com/watch?v=34VWf-wOSGk"
 	},
 	{
@@ -196,7 +196,7 @@
 		"start": "March 25, 1982",
 		"end": "May 16, 1988",
 		"type": "Police Procedural Drama Television Series",
-		"img": "/images/cagney.jpg",
+		"img": "../public/images/cagney.jpg",
 		"link": "https://www.youtube.com/watch?v=OuwaA0BLKr4"
 	},
 	{
@@ -206,7 +206,7 @@
 		"start": "April 24, 1978",
 		"end": "March 31, 1989",
 		"type": "Television Game Show",
-		"img": "/images/card-sharks.jpg",
+		"img": "../public/images/card-sharks.jpg",
 		"link": "https://www.youtube.com/watch?v=uHx93JHDR_Y"
 	},
 	{
@@ -216,7 +216,7 @@
 		"start": "September 17, 1961",
 		"end": "April 14, 1963",
 		"type": "Sitcom Television series",
-		"img": "/images/car.jpg",
+		"img": "../public/images/car.jpg",
 		"link": "https://www.youtube.com/watch?v=S5MkCAwupe0"
 	},
 	{
@@ -226,7 +226,7 @@
 		"start": "September 22, 1976",
 		"end": "June 24, 1981",
 		"type": "Crime Drama Television series",
-		"img": "/images/angels.jpg",
+		"img": "../public/images/angels.jpg",
 		"link": "https://www.youtube.com/watch?v=OVtVru9KXao"
 	},
 	{
@@ -236,7 +236,7 @@
 		"start": "September 30, 1982",
 		"end": "May 30, 1993",
 		"type": "Sitcom Television series",
-		"img": "/images/cheers.jpg",
+		"img": "../public/images/cheers.jpg",
 		"link": "https://www.youtube.com/watch?v=7KtAgAMzaeg"
 	},
 	{
@@ -246,7 +246,7 @@
 		"start": "September 15, 1977",
 		"end": "May 1, 1983",
 		"type": "Crime Drama Television Series",
-		"img": "/images/chips.jpg",
+		"img": "../public/images/chips.jpg",
 		"link": "https://www.youtube.com/watch?v=a2xwLJQGdho"
 	},
 	{
@@ -256,7 +256,7 @@
 		"start": "February 28, 1989",
 		"end": "May 14, 1997",
 		"type": "Sitcom Television Series",
-		"img": "/images/coach.jpg",
+		"img": "../public/images/coach.jpg",
 		"link": "https://www.youtube.com/watch?v=VedNLt2Sg1I"
 	},
 	{
@@ -266,7 +266,7 @@
 		"start": "April 2, 1978",
 		"end": "May 3, 1991",
 		"type": "Prime Time Soap Opera",
-		"img": "/images/dallas.jpg",
+		"img": "../public/images/dallas.jpg",
 		"link": "https://www.youtube.com/watch?v=9Y7gP-eEVRU"
 	},
 	{
@@ -276,7 +276,7 @@
 		"start": "October 6, 1988",
 		"end": "July 22, 1992",
 		"type": "Sitcom Television Series",
-		"img": "/images/john.jpg",
+		"img": "../public/images/john.jpg",
 		"link": "https://www.youtube.com/watch?v=rxLqW0Q2DFU"
 	},
 	{
@@ -286,7 +286,7 @@
 		"start": "October 4, 1959",
 		"end": "July 7, 1963",
 		"type": "Sitcom Television Series",
-		"img": "/images/menace.webp",
+		"img": "../public/images/menace.webp",
 		"link": "https://www.youtube.com/watch?v=Ybj-tmSE3pc"
 	},
     {
@@ -296,7 +296,7 @@
 		"start": "November 3, 1978",
 		"end": "March 7, 1986",
 		"type": "Sitcom Television Series",
-		"img": "/images/strokes.jpg",
+		"img": "../public/images/strokes.jpg",
 		"link": "https://www.youtube.com/watch?v=IU28sbyBILA"
 	},
 	{
@@ -306,7 +306,7 @@
 		"start": "September 19, 1989",
 		"end": "March 24, 1993",
 		"type": "Medical Drama Series",
-		"img": "/images/howser.jpg",
+		"img": "../public/images/howser.jpg",
 		"link": "https://www.youtube.com/watch?v=mrERtikdPus"
 	},
 	{
@@ -316,7 +316,7 @@
 		"start": "October 6, 1986",
 		"end": "February 7, 1993",
 		"type": "Television Game Show",
-		"img": "/images/double-dare.webp",
+		"img": "../public/images/double-dare.webp",
 		"link": "https://www.youtube.com/watch?v=XEZCY95JliY"
 	},
 	{
@@ -326,7 +326,7 @@
 		"start": "December 16, 1951",
 		"end": "December 4, 2004",
 		"type": "Radio and Television Series",
-		"img": "/images/dragnet.jpg",
+		"img": "../public/images/dragnet.jpg",
 		"link": "https://www.youtube.com/watch?v=Hj-qhIGTXdU"
 	},
 	{
@@ -336,7 +336,7 @@
 		"start": "October 8, 1988",
 		"end": "April 29, 1995",
 		"type": "Sitcom Television Series",
-		"img": "/images/nest.jpg",
+		"img": "../public/images/nest.jpg",
 		"link": "https://www.youtube.com/watch?v=jnF6ue_8eu4"
 	},
 	{
@@ -346,7 +346,7 @@
 		"start": "September 13, 1996",
 		"end": "May 16, 2005",
 		"type": "Sitcom Television series",
-		"img": "/images/raymond.jpg",
+		"img": "../public/images/raymond.jpg",
 		"link": "https://www.youtube.com/watch?v=bEu1sUzVXpI"
 	},
 	{
@@ -356,7 +356,7 @@
 		"start": "July 12, 1976",
 		"end": "Present",
 		"type": "Television Game Show",
-		"img": "/images/family-feud.jpg",
+		"img": "../public/images/family-feud.jpg",
 		"link": "https://www.youtube.com/watch?v=PD-kwcEUcoI"
 	},
 	{
@@ -366,7 +366,7 @@
 		"start": "September 22, 1989",
 		"end": "May 9, 1997",
 		"type": "Sitcom Television Series",
-		"img": "/images/matters.jpg",
+		"img": "../public/images/matters.jpg",
 		"link": "https://www.youtube.com/watch?v=ws6zba8sTVw"
 	},
 	{
@@ -376,7 +376,7 @@
 		"start": "September 22, 1982",
 		"end": "May 14, 1989",
 		"type":"Sitcom Television Series",
-		"img": "/images/ties.jpg",
+		"img": "../public/images/ties.jpg",
 		"link": "https://www.youtube.com/watch?v=ZdzfOowQ0xY"
 	},
 	{
@@ -386,7 +386,7 @@
 		"start": "October 3, 1954",
 		"end": "May 23, 1960",
 		"type":"Sitcom Television Series",
-		"img": "/images/father.jpg",
+		"img": "../public/images/father.jpg",
 		"link": "https://www.youtube.com/watch?v=sxyR_zOzW-s"
 	},
 	{
@@ -396,7 +396,7 @@
 		"start": "November 3, 1981",
 		"end": "September 18, 1983",
 		"type":"Western Drama Television Series",
-		"img": "/images/murphy.png",
+		"img": "../public/images/murphy.png",
 		"link": "https://www.youtube.com/watch?v=owBp3gN1gNg"
 	},
 	{
@@ -406,7 +406,7 @@
 		"start": "September 19, 1964",
 		"end": "April 15, 1967",
 		"type":"Sitcom Television Series",
-		"img": "/images/flipper.jpg",
+		"img": "../public/images/flipper.jpg",
 		"link": "https://www.youtube.com/watch?v=y6PqrTZsho0"
 	},
 	{
@@ -416,7 +416,7 @@
 		"start": "September 22, 1994",
 		"end": "May 6, 2004",
 		"type":"Sitcom Television Series",
-		"img": "/images/friends.jpg",
+		"img": "../public/images/friends.jpg",
 		"link": "https://www.youtube.com/watch?v=vQtveTUZrS8"
 	},
 	{
@@ -426,7 +426,7 @@
 		"start": "September 14, 1965",
 		"end": "April 6, 1967",
 		"type":"Satirical Television Sitcom Western",
-		"img": "/images/troop.webp",
+		"img": "../public/images/troop.webp",
 		"link": "https://www.youtube.com/watch?v=ihcd1XInF24"
 	},
 	{
@@ -436,7 +436,7 @@
 		"start": "September 22, 1987",
 		"end": "May 23, 1995",
 		"type": "Sitcom Television Series",
-		"img": "/images/full.jpg",
+		"img": "../public/images/full.jpg",
 		"link": "https://www.youtube.com/watch?v=2EL65KLdEHE"
 	},
 	{
@@ -446,7 +446,7 @@
 		"start": "September 18, 1965",
 		"end": "May 15, 1970",
 		"type": "Comedy Television Series",
-		"img": "/images/smart.gif",
+		"img": "../public/images/smart.gif",
 		"link": "https://www.youtube.com/watch?v=sWEvp217Tzw"
 	},
 	{
@@ -456,7 +456,7 @@
 		"start": "September 26, 1964",
 		"end": "April 17, 1967",
 		"type": "Sitcom Television Series",
-		"img": "/images/gilligan.jpg",
+		"img": "../public/images/gilligan.jpg",
 		"link": "https://www.youtube.com/watch?v=cfR7qxtgCgY"
 	},
 	{
@@ -466,7 +466,7 @@
 		"start": "October 28, 1981",
 		"end": "May 12, 1987",
 		"type": "Sitcom Television Series",
-		"img": "/images/gimmie.png",
+		"img": "../public/images/gimmie.png",
 		"link": "https://www.youtube.com/watch?v=e4EAGiefnxc"
 	},
 	{
@@ -476,7 +476,7 @@
 		"start": "September 25, 1964",
 		"end": "May 2, 1969",
 		"type": "Comedy Television Series",
-		"img": "/images/gomer.jpg",
+		"img": "../public/images/gomer.jpg",
 		"link": "https://www.youtube.com/watch?v=_JAA2Unb0B4"
 	},
 	{
@@ -486,7 +486,7 @@
 		"start": "February 8, 1974",
 		"end": "August 1, 1979",
 		"type": "Sitcom Television Series",
-		"img": "/images/times.jpg",
+		"img": "../public/images/times.jpg",
 		"link": "https://www.youtube.com/watch?v=4MuG-uWocvs"
 	},
 	{
@@ -496,7 +496,7 @@
 		"start": "September 15, 1965",
 		"end": "April 27, 1971",
 		"type": "Sitcom Television Series",
-		"img": "/images/acres.jpg",
+		"img": "../public/images/acres.jpg",
 		"link": "https://www.youtube.com/watch?v=DrbPAt1_vc4"
 	},
 	{
@@ -506,7 +506,7 @@
 		"start": "September 24, 1985",
 		"end": "April 25, 1992",
 		"type":"Sitcom Television Series",
-		"img": "/images/pains.jpg",
+		"img": "../public/images/pains.jpg",
 		"link": "https://www.youtube.com/watch?v=blpwNN5k79U"
 	},
 	{
@@ -516,7 +516,7 @@
 		"start": "September 14, 1985",
 		"end": "January 6, 1990",
 		"type":"Animated Television Series",
-		"img": "/images/gummy-bears.jpg",
+		"img": "../public/images/gummy-bears.jpg",
 		"link": "https://www.youtube.com/watch?v=77wNujaN0x8"
 	},
 	{
@@ -526,7 +526,7 @@
 		"start": "April 26, 1952",
 		"end": "June 18, 1961",
 		"type":"Western Drama Television Series",
-		"img": "/images/gunsmoke.jpg",
+		"img": "../public/images/gunsmoke.jpg",
 		"link": "https://www.youtube.com/watch?v=8d3bqcvsqq4"
 	},
 	{
@@ -536,7 +536,7 @@
 		"start": "January 15, 1974",
 		"end": "September 24, 1984",
 		"type":"Sitcom Television Series",
-		"img": "/images/days.jpg",
+		"img": "../public/images/days.jpg",
 		"link": "https://www.youtube.com/watch?v=Hre2TtmAWBc"
 	},
 	{
@@ -546,7 +546,7 @@
 		"start": "September 14, 1957",
 		"end": "April 20, 1963",
 		"type":"Western Series",
-		"img": "/images/gun.jpg",
+		"img": "../public/images/gun.jpg",
 		"link": "https://www.youtube.com/watch?v=8u0VtRUMf1U"
 	},
 	{
@@ -556,7 +556,7 @@
 		"start": "September 20, 1968",
 		"end": "April 5, 1980",
 		"type":"Police Procedural Drama Series",
-		"img": "/images/hawaii.jpg",
+		"img": "../public/images/hawaii.jpg",
 		"link": "https://www.youtube.com/watch?v=DOHhcAufeJo"
 	},
 	{
@@ -566,7 +566,7 @@
 		"start": "September 17, 1986",
 		"end": "June 25, 1991",
 		"type":"Sitcom Television Series",
-		"img": "/images/class.jpg",
+		"img": "../public/images/class.jpg",
 		"link": "https://www.youtube.com/watch?v=qnZROUBznno"
 	},
 	{
@@ -576,7 +576,7 @@
 		"start": "June 15, 1969",
 		"end": "December 27, 1997",
 		"type":"Television Variety Show",
-		"img": "/images/heehaw.jpg",
+		"img": "../public/images/heehaw.jpg",
 		"link": "https://www.youtube.com/watch?v=kVTZMLAED34"
 	},
 	{
@@ -586,7 +586,7 @@
 		"start": "September 8, 1991",
 		"end": "April 21, 1994",
 		"type":"Sitcom Television Series",
-		"img": "/images/herman.jpg",
+		"img": "../public/images/herman.jpg",
 		"link": "https://www.youtube.com/watch?v=H8tzXFagaso"
 	},
 	{
@@ -596,7 +596,7 @@
 		"start": "September 19, 1984",
 		"end": "August 4, 1989",
 		"type": "Fantasy Drama Television Series",
-		"img": "/images/heaven.jpg",
+		"img": "../public/images/heaven.jpg",
 		"link": "https://www.youtube.com/watch?v=CBvjnqnMKhU"
 	},
 	{
@@ -606,7 +606,7 @@
 		"start": "January 15, 1981",
 		"end": "May 12, 1987",
 		"type": "Police Procedural Television Series",
-		"img": "/images/blues.jpg",
+		"img": "../public/images/blues.jpg",
 		"link": "https://www.youtube.com/watch?v=oUX3TPKVf_Y"
 	},
 	{
@@ -616,7 +616,7 @@
 		"start": "September 17, 1965",
 		"end": "April 4, 1971",
 		"type": "Sitcom Television Series",
-		"img": "/images/heros.webp",
+		"img": "../public/images/heros.webp",
 		"link": "https://www.youtube.com/watch?v=CQyUn2mCKtg"
 	},
 	{
@@ -626,7 +626,7 @@
 		"start": "October 17, 1966",
 		"end": "June 4, 2004",
 		"type": "Television Game Show",
-		"img": "/images/hollywood.jpg",
+		"img": "../public/images/hollywood.jpg",
 		"link": "https://www.youtube.com/watch?v=WZbLAPFmHdg"
 	},
 	{
@@ -636,7 +636,7 @@
 		"start": "September 17, 1991",
 		"end": "May 25, 1999",
 		"type":"Sitcom Television series",
-		"img": "/images/home.jpg",
+		"img": "../public/images/home.jpg",
 		"link": "https://www.youtube.com/watch?v=vHIOzsU0fbM"
 	},
 	{
@@ -646,7 +646,7 @@
 		"start": "October 1, 1955",
 		"end": "September 22, 1956",
 		"type":"Sitcom Television series",
-		"img": "/images/honeymooners.jpg",
+		"img": "../public/images/honeymooners.jpg",
 		"link": "https://www.youtube.com/watch?v=Gcp-ngsSQ6w"
 	},
 	{
@@ -656,7 +656,7 @@
 		"start": "September 18, 1984",
 		"end": "April 26, 1991",
 		"type": "Crime Drama Television Series",
-		"img": "/images/hunter.jpg",
+		"img": "../public/images/hunter.jpg",
 		"link": "https://www.youtube.com/watch?v=Cc-Ccs9WNBM"
 	},
 	{
@@ -666,7 +666,7 @@
 		"start": "September 18, 1965",
 		"end": "May 26, 1970",
 		"type": "Fantasy Sitcom Television Series",
-		"img": "/images/jeannie.jpg",
+		"img": "../public/images/jeannie.jpg",
 		"link": "https://www.youtube.com/watch?v=szECpTGoXFk"
 	},
 	{
@@ -676,7 +676,7 @@
 		"start": "October 15, 1951",
 		"end": "May 6, 1957",
 		"type": "Sitcom Television Series",
-		"img": "/images/lucy.jpg",
+		"img": "../public/images/lucy.jpg",
 		"link": "https://www.youtube.com/watch?v=-t4ql-r406Q"
 	},
 	{
@@ -686,7 +686,7 @@
 		"start": "October 15, 1952",
 		"end": "March 23, 1955",
 		"type": "Situation Comedy Series",
-		"img": "/images/joan.jpg",
+		"img": "../public/images/joan.jpg",
 		"link": "https://www.youtube.com/watch?v=Lpkzj8J_5NA"
 	},
 	{
@@ -696,7 +696,7 @@
 		"start": "1983",
 		"end": "1986",
 		"type": "Animated Television Series",
-		"img": "/images/gadget.png",
+		"img": "../public/images/gadget.png",
 		"link": "https://www.youtube.com/watch?v=e-JHfXVlkik"
 	},
 	{
@@ -706,7 +706,7 @@
 		"start": "March 6, 1988",
 		"end": "May 16, 1995",
 		"type":"Crime Drama Television Series",
-		"img": "/images/heat.jpg",
+		"img": "../public/images/heat.jpg",
 		"link": "https://www.youtube.com/watch?v=pMjOx_pm2Xg"
 	},
 	{
@@ -716,7 +716,7 @@
 		"start": "March 30, 1964",
 		"end": "Present",
 		"type":"Television Game Show",
-		"img": "/images/jeopardy.jpg",
+		"img": "../public/images/jeopardy.jpg",
 		"link": "https://www.youtube.com/watch?v=cu-UCWf86d4"
 	},
 	{
@@ -726,7 +726,7 @@
 		"start": "September 26, 1982",
 		"end": "April 4, 1986",
 		"type": "Action Crime Drama Television Series",
-		"img": "/images/knight.png",
+		"img": "../public/images/knight.png",
 		"link": "https://www.youtube.com/watch?v=oNyXYPhnUIs"
 	},
 	{
@@ -736,7 +736,7 @@
 		"start": "December 27, 1979",
 		"end": "May 13, 1993",
 		"type": "Prime Time Television Soap Opera",
-		"img": "/images/knots.jpg",
+		"img": "../public/images/knots.jpg",
 		"link": "https://www.youtube.com/watch?v=edzaiysEE_I"
 	},
 	{
@@ -746,7 +746,7 @@
 		"start": "September 15, 1986",
 		"end": "May 19, 1994",
 		"type": "Legal Drama Television Series",
-		"img": "/images/law.jpg",
+		"img": "../public/images/law.jpg",
 		"link": "https://www.youtube.com/watch?v=e7R6ycC_s1g"
 	},
 	{
@@ -756,7 +756,7 @@
 		"start": "September 12, 1954",
 		"end": "March 24, 1973",
 		"type": "Sitcom Television Series",
-		"img": "/images/lassie.jpg",
+		"img": "../public/images/lassie.jpg",
 		"link": "https://www.youtube.com/watch?v=3zopwFjRVuk"
 	},
 	{
@@ -766,7 +766,7 @@
 		"start": "January 27, 1976",
 		"end": "May 10, 1983",
 		"type": "Sitcom Television Series",
-		"img": "/images/laverne.jpg",
+		"img": "../public/images/laverne.jpg",
 		"link": "https://www.youtube.com/watch?v=mRmKzxhMzwo"
 	},
 	{
@@ -776,7 +776,7 @@
 		"start": "October 4, 1957",
 		"end": "June 20, 1963",
 		"type":"Sitcom Television Series",
-		"img": "/images/beaver.jpg",
+		"img": "../public/images/beaver.jpg",
 		"link": "https://www.youtube.com/watch?v=wL4dOfgslio"
 	},
 	{
@@ -786,7 +786,7 @@
 		"start": "December 30, 1963",
 		"end": "Present",
 		"type":"Television Game Show",
-		"img": "/images/deal.jpg",
+		"img": "../public/images/deal.jpg",
 		"link": "https://www.youtube.com/watch?v=4mYs6bfVq58"
 	},
 	{
@@ -796,7 +796,7 @@
 		"start": "September 11, 1974",
 		"end": "May 10, 1982",
 		"type": "Western Historical Drama series",
-		"img": "/images/prairie.jpg",
+		"img": "../public/images/prairie.jpg",
 		"link": "https://www.youtube.com/watch?v=MawR-tA61dM"
 	},
 	{
@@ -806,7 +806,7 @@
 		"start": "1930",
 		"end": "1969",
 		"type": "Animated Comedy Series",
-		"img": "/images/looney.jpg",
+		"img": "../public/images/looney.jpg",
 		"link": "https://www.youtube.com/watch?v=viBJUZtxQFs"
 	},
 	{
@@ -816,7 +816,7 @@
 		"start": "September 24, 1977",
 		"end": "February 27, 1987",
 		"type": "Comedy Drama Television Series",
-		"img": "/images/love.jpg",
+		"img": "../public/images/love.jpg",
 		"link": "https://www.youtube.com/watch?v=m_wFEB4Oxlo"
 	},
 	{
@@ -826,7 +826,7 @@
 		"start": "September 29, 1985",
 		"end": "May 21, 1992",
 		"type": "Action-Adventure Television Series",
-		"img": "/images/macgyver.jpg",
+		"img": "../public/images/macgyver.jpg",
 		"link": "https://www.youtube.com/watch?v=yOEe1uzurKo"
 	},
 	{
@@ -836,7 +836,7 @@
 		"start": "September 23, 1969",
 		"end": "July 29, 1976",
 		"type": "Medical Drama Television Program",
-		"img": "/images/welby.jpg",
+		"img": "../public/images/welby.jpg",
 		"link": "https://www.youtube.com/watch?v=SlSVJiKxG1c"
 	},
 	{
@@ -846,7 +846,7 @@
 		"start": "September 23, 1992",
 		"end": "May 24, 1999",
 		"type": "Sitcom Television Series",
-		"img": "/images/mad.jpg",
+		"img": "../public/images/mad.jpg",
 		"link": "https://www.youtube.com/watch?v=6xDqEwgDrzc"
 	},
 	{
@@ -856,7 +856,7 @@
 		"start": "December 11, 1980",
 		"end": "May 8, 1988",
 		"type": "Crime Drama Television Series",
-		"img": "/images/magnum.jpg",
+		"img": "../public/images/magnum.jpg",
 		"link": "https://www.youtube.com/watch?v=xIaXl7SqkBw"
 	},
 	{
@@ -866,7 +866,7 @@
 		"start": "September 29, 1953",
 		"end": "April 27, 1964",
 		"type": "Sitcom Television Series",
-		"img": "/images/daddy.jpg",
+		"img": "../public/images/daddy.jpg",
 		"link": "https://www.youtube.com/watch?v=y1LGInpoLGg"
 	},
     {
@@ -876,7 +876,7 @@
 		"start": "January 22, 1983",
 		"end": "February 24, 1990",
 		"type": "Sitcom Television Series",
-		"img": "/images/mama.jpg",
+		"img": "../public/images/mama.jpg",
 		"link": "https://www.youtube.com/watch?v=CIxeTNyCmLE"
 	},
 	{
@@ -886,7 +886,7 @@
 		"start": "April 5, 1987",
 		"end": "June 9, 1997",
 		"type": "Sitcom Television Series",
-		"img": "/images/married.jpg",
+		"img": "../public/images/married.jpg",
 		"link": "https://www.youtube.com/watch?v=yySA13fjXOE"
 	},
 	{
@@ -896,7 +896,7 @@
 		"start": "September 17, 1972",
 		"end": "February 28, 1983",
 		"type": "War Comedy Drama Television Series",
-		"img": "/images/mash.jpg",
+		"img": "../public/images/mash.jpg",
 		"link": "https://www.youtube.com/watch?v=N4hzRHuDZ4I"
 	},
 	{
@@ -906,7 +906,7 @@
 		"start": "September 5, 1983",
 		"end": "November 21, 1985",
 		"type": "Animated Television Series",
-		"img": "/images/masters.jpg",
+		"img": "../public/images/masters.jpg",
 		"link": "https://www.youtube.com/watch?v=VnBbW3g5y5Q"
 	},
 	{
@@ -916,7 +916,7 @@
 		"start": "December 31, 1962",
 		"end": "July 28, 2021",
 		"type": "Television Game Show",
-		"img": "/images/match-game.jpg",
+		"img": "../public/images/match-game.jpg",
 		"link": "https://www.youtube.com/watch?v=VFxspObaHOw"
 	},
 	{
@@ -926,7 +926,7 @@
 		"start": "March 3, 1986",
 		"end": "May 8, 1992",
 		"type": "Mystery Legal Drama Television Series",
-		"img": "/images/matlock.jpg",
+		"img": "../public/images/matlock.jpg",
 		"link": "https://www.youtube.com/watch?v=SQgdfJoxX1s"
 	},
 	{
@@ -936,7 +936,7 @@
 		"start": "September 12, 1972",
 		"end": "April 22, 1978",
 		"type": "Sitcom Television Series",
-		"img": "/images/maude.jpg",
+		"img": "../public/images/maude.jpg",
 		"link": "https://www.youtube.com/watch?v=lZ6VMLVLWUw"
 	},
 	{
@@ -946,7 +946,7 @@
 		"start": "October 11, 1962",
 		"end": "April 12, 1966",
 		"type": "Sitcom Television Series",
-		"img": "/images/navy.jpg",
+		"img": "../public/images/navy.jpg",
 		"link": "https://www.youtube.com/watch?v=HNvibK9jgYA"
 	},
 	{
@@ -956,7 +956,7 @@
 		"start": "September 16, 1984",
 		"end": "January 25, 1990",
 		"type": "Crime Drama Television Series",
-		"img": "/images/vice.jpg",
+		"img": "../public/images/vice.jpg",
 		"link": "https://www.youtube.com/watch?v=2qZOmcMwpgM"
 	},
 	{
@@ -966,7 +966,7 @@
 		"start": "September 17, 1966",
 		"end": "March 30, 1973",
 		"type": "Television Series",
-		"img": "/images/mission.jpg",
+		"img": "../public/images/mission.jpg",
 		"link": "https://www.youtube.com/watch?v=GipHJHVpP6g"
 	},
 	{
@@ -976,7 +976,7 @@
 		"start": "September 17, 1983",
 		"end": "October 19, 1985",
 		"type": "Animated Television Series",
-		"img": "/images/t.jpg",
+		"img": "../public/images/t.jpg",
 		"link": "https://www.youtube.com/watch?v=5K-cQCREscQ"
 	},
 	{
@@ -986,7 +986,7 @@
 		"start": "September 14, 1978",
 		"end": "May 27, 1982",
 		"type": "Sitcom Television Series",
-		"img": "/images/mork.jpg",
+		"img": "../public/images/mork.jpg",
 		"link": "https://www.youtube.com/watch?v=uPrIll6aLgI&vl=en"
 	},
 	{
@@ -996,7 +996,7 @@
 		"start": "March 15, 1985",
 		"end": "July 8, 1990",
 		"type": "Sitcom Television Series",
-		"img": "/images/belvedere.jpg",
+		"img": "../public/images/belvedere.jpg",
 		"link": "https://www.youtube.com/watch?v=GPhojHwGjkE"
 	},
 	{
@@ -1006,7 +1006,7 @@
 		"start": "January 5, 1961",
 		"end": "February 6, 1966",
 		"type": "Sitcom Television Series",
-		"img": "/images/ed.jpg",
+		"img": "../public/images/ed.jpg",
 		"link": "https://www.youtube.com/watch?v=QwLfI0LW_mg"
 	},
 	{
@@ -1016,7 +1016,7 @@
 		"start": "November 14, 1988",
 		"end": "May 18, 1998",
 		"type": "Sitcom Television Series",
-		"img": "/images/brown.png",
+		"img": "../public/images/brown.png",
 		"link": "https://www.youtube.com/watch?v=dBOwPHRZ4l0"
 	},
 	{
@@ -1026,7 +1026,7 @@
 		"start": "September 29, 1963",
 		"end": "May 1, 1966",
 		"type": "Science Fiction Television Sitcom",
-		"img": "/images/martian.jpg",
+		"img": "../public/images/martian.jpg",
 		"link": "https://www.youtube.com/watch?v=7piG2V17cH8"
 	},
 	{
@@ -1036,7 +1036,7 @@
 		"start": "September 29, 1960",
 		"end": "April 13, 1972",
 		"type": "Sitcom Television Series",
-		"img": "/images/sons.jpg",
+		"img": "../public/images/sons.jpg",
 		"link": "https://www.youtube.com/watch?v=htETnX9p__I"
 	},
 	{
@@ -1046,7 +1046,7 @@
 		"start": "September 20, 1987",
 		"end": "April 30, 1990",
 		"type": "Sitcom Television Series",
-		"img": "/images/dads.jpg",
+		"img": "../public/images/dads.jpg",
 		"link": "https://www.youtube.com/watch?v=LHXeo57xj3k"
 	},
 	{
@@ -1056,7 +1056,7 @@
 		"start": "1974",
 		"end": "Present",
 		"type": "Television Game Show",
-		"img": "/images/tune.webp",
+		"img": "../public/images/tune.webp",
 		"link": "https://www.youtube.com/watch?v=nFBKDe44NGg"
 	},
 	{
@@ -1066,7 +1066,7 @@
 		"start": "January 4, 1984",
 		"end": "May 31, 1992",
 		"type": "Sitcom Television series",
-		"img": "/images/court.jpg",
+		"img": "../public/images/court.jpg",
 		"link": "https://www.youtube.com/watch?v=tUltrX-ICew"
 	},
 	{
@@ -1076,7 +1076,7 @@
 		"start": "September 11, 1986",
 		"end": "May 8, 1988",
 		"type": "Drama Television Series",
-		"img": "/images/house.jpg",
+		"img": "../public/images/house.jpg",
 		"link": "https://www.youtube.com/watch?v=AKNmBPDbJZY"
 	},
 	{
@@ -1086,7 +1086,7 @@
 		"start": "September 18, 1963",
 		"end": "April 27, 1966",
 		"type": "Sitcom Television Series",
-		"img": "/images/patty.jpg",
+		"img": "../public/images/patty.jpg",
 		"link": "https://www.youtube.com/watch?v=qQTqKcojrVY"
 	},
 	{
@@ -1096,7 +1096,7 @@
 		"start": "March 25, 1986",
 		"end": "August 6, 1993",
 		"type": "Sitcom Television Series",
-		"img": "/images/strangers.jpg",
+		"img": "../public/images/strangers.jpg",
 		"link": "https://www.youtube.com/watch?v=8vbnLYROCj8"
 	},
 	{
@@ -1106,7 +1106,7 @@
 		"start": "September 21, 1957",
 		"end": "May 22, 1966",
 		"type": "Legal Drama Television Series",
-		"img": "/images/mason.gif",
+		"img": "../public/images/mason.gif",
 		"link": "https://www.youtube.com/watch?v=2zlG-i2J6qI"
 	},
 	{
@@ -1116,7 +1116,7 @@
 		"start": "September 24, 1963",
 		"end": "April 24, 1970",
 		"type": "Sitcom Television Series",
-		"img": "/images/petticoat.webp",
+		"img": "../public/images/petticoat.webp",
 		"link": "https://www.youtube.com/watch?v=Pd9WJNy7B9s"
 	},
 	{
@@ -1126,7 +1126,7 @@
 		"start": "July 14, 1933",
 		"end": "August 9, 1957",
 		"type": "Animated Television Series",
-		"img": "/images/popeye.webp",
+		"img": "../public/images/popeye.webp",
 		"link": "https://www.youtube.com/watch?v=grtchH6SfGE"
 	},
 	{
@@ -1136,7 +1136,7 @@
 		"start": "September 19, 1983",
 		"end": "September 26, 1986",
 		"type": "Television Game Show",
-		"img": "/images/luck.png",
+		"img": "../public/images/luck.png",
 		"link": "https://www.youtube.com/watch?v=puG5_hPBcOc"
 	},
 	{
@@ -1146,7 +1146,7 @@
 		"start": "September 16, 1984",
 		"end": "March 9, 1986",
 		"type": "Sitcom Television series",
-		"img":"/images/punky.jpg",
+		"img":"../public/images/punky.jpg",
 		"link": "https://www.dailymotion.com/video/x3ubi0b"
 	},
 	{
@@ -1156,7 +1156,7 @@
 		"start": "March 25, 1989",
 		"end": "May 5, 1993",
 		"type": "Science Fiction Television Series",
-		"img": "/images/leap.jpg",
+		"img": "../public/images/leap.jpg",
 		"link": "https://www.youtube.com/watch?v=DjK9GJMBpt0"
 	},
 	{
@@ -1166,7 +1166,7 @@
 		"start": "January 9, 1959",
 		"end": "December 7, 1965",
 		"type": "Western Television Series",
-		"img": "/images/rawhide.jpg",
+		"img": "../public/images/rawhide.jpg",
 		"link": "https://www.youtube.com/watch?v=AKC8pSFg1Vw"
 	},
 	{
@@ -1176,7 +1176,7 @@
 		"start": "October 18, 1988",
 		"end": "May 20, 1997",
 		"type": "Sitcom Television Series",
-		"img": "/images/roseanne.jpg",
+		"img": "../public/images/roseanne.jpg",
 		"link": "https://www.youtube.com/watch?v=iSE51IAUZ3M"
 	},
 	{
@@ -1186,7 +1186,7 @@
 		"start": "September 29, 1969",
 		"end": "March 24, 1989",
 		"type": "Television Game Show",
-		"img": "/images/century.jpg",
+		"img": "../public/images/century.jpg",
 		"link": "https://www.youtube.com/watch?v=kLQ_c-40xGs"
 	},
 	{
@@ -1196,7 +1196,7 @@
 		"start": "January 14, 1972",
 		"end": "march 25, 1977",
 		"type": "Sitcom Television Series",
-		"img": "/images/sanford.jpg",
+		"img": "../public/images/sanford.jpg",
 		"link": "https://www.youtube.com/watch?v=j9z4zPKHbrA"
 	},
 	{
@@ -1206,7 +1206,7 @@
 		"start": "August 20, 1989",
 		"end": "May 22, 1993",
 		"type": "Sitcom Television Series",
-		"img": "/images/saved.jpg",
+		"img": "../public/images/saved.jpg",
 		"link": "https://www.youtube.com/watch?v=wAh5IwiD4N8"
 	},
 	{
@@ -1216,7 +1216,7 @@
 		"start": "September 13, 1969",
 		"end": "October 31, 1970",
 		"type": "Animated Mystery Comedy Television Series",
-		"img": "/images/scooby.jpg",
+		"img": "../public/images/scooby.jpg",
 		"link": "https://www.youtube.com/watch?v=nIcPumeZhew"
 	},
 	{
@@ -1226,7 +1226,7 @@
 		"start": "July 2, 1984",
 		"end": "March 23, 1990",
 		"type": "Television Game Show",
-		"img": "/images/scrabble.jpg",
+		"img": "../public/images/scrabble.jpg",
 		"link": "https://www.youtube.com/watch?v=iliCKnHxJiQ"
 	},
 	{
@@ -1236,7 +1236,7 @@
 		"start": "July 5, 1989",
 		"end": "May 14, 1998",
 		"type": "Sitcom Television series",
-		"img": "/images/seinfield.jpg",
+		"img": "../public/images/seinfield.jpg",
 		"link": "https://www.youtube.com/watch?v=_3Z_UISDg1E"
 	},
 	{
@@ -1246,7 +1246,7 @@
 		"Start": "September 25, 1982",
 		"end": "May 11, 1986",
 		"type": "Sitcom Television Series",
-		"img": "/images/silver.jpg",
+		"img": "../public/images/silver.jpg",
 		"link": "https://www.youtube.com/watch?v=Vk91ymiO3iA"
 	},
 	{
@@ -1256,7 +1256,7 @@
 		"Start": "October 9, 1973",
 		"end": "February 19, 1974",
 		"type": "Television Movies Series",
-		"img": "/images/shaft.jpg",
+		"img": "../public/images/shaft.jpg",
 		"link": "https://www.youtube.com/watch?v=fOQpkYnGQ1I"
 
 	},
@@ -1267,7 +1267,7 @@
 		"start": "September 9, 1985",
 		"end": "December 2, 1986",
 		"type": "Animated Television Series",
-		"img": "/images/shera.jpg",
+		"img": "../public/images/shera.jpg",
 		"link": "https://www.youtube.com/watch?v=0caFXKguGaE"
 	},
 	{
@@ -1277,7 +1277,7 @@
 		"start": "September 7, 1985",
 		"end": "May 20, 1989",
 		"type": "Comedy Science Fiction Sitcom",
-		"img": "/images/wonder.jpg",
+		"img": "../public/images/wonder.jpg",
 		"link": "https://www.youtube.com/watch?v=go2mq3gs_3Y"
 	},
 	{
@@ -1287,7 +1287,7 @@
 		"start": "September 15, 1984",
 		"end": "May 13, 1989",
 		"type": "Animated Television Series",
-		"img": "/images/snorks.jpg",
+		"img": "../public/images/snorks.jpg",
 		"link": "https://www.youtube.com/watch?v=I4ALjDSsMd4"
 	},
 	{
@@ -1297,7 +1297,7 @@
 		"start": "September 8, 1966",
 		"end": "June 3, 1969",
 		"type": "Science Fiction Television Series",
-		"img": "/images/star.jpg",
+		"img": "../public/images/star.jpg",
 		"link": "https://www.youtube.com/watch?v=hdjL8WXjlGI"
 	},
 	{
@@ -1307,7 +1307,7 @@
 		"start": "October 26, 1982",
 		"end": "May 25, 1988",
 		"type": "Medical Drama Television Series",
-		"img": "/images/elsewhere.jpeg",
+		"img": "../public/images/elsewhere.jpeg",
 		"link": "https://www.youtube.com/watch?v=bFHTNBZKWjE"
 	},
 	{
@@ -1317,7 +1317,7 @@
 		"start": "September 12, 1978",
 		"end": "June 15, 1983",
 		"type": "Sitcom Television Series",
-		"img": "/images/taxi.jpg",
+		"img": "../public/images/taxi.jpg",
 		"link": "https://www.youtube.com/watch?v=7VCJXj-WG-s"
 	},
 	{
@@ -1327,7 +1327,7 @@
 		"start": "September 18, 1964",
 		"end": "April 8, 1966",
 		"type": "Sitcom Television Series",
-		"img": "/images/addams.jpg",
+		"img": "../public/images/addams.jpg",
 		"link": "https://www.youtube.com/watch?v=cfawtDT945o"
 	},
 	{
@@ -1337,7 +1337,7 @@
 		"start": "October 3, 1952",
 		"end": "April 23, 1966",
 		"type": "Sitcom Television Series",
-		"img": "/images/ozzie.jpg",
+		"img": "../public/images/ozzie.jpg",
 		"link": "https://www.youtube.com/watch?v=098_p7rrUuA"
 	},
 	{
@@ -1347,7 +1347,7 @@
 		"start": "October 3, 1960",
 		"end": "April 1, 1968",
 		"type": "Comedy Television Series",
-		"img": "/images/griffith.jpg",
+		"img": "../public/images/griffith.jpg",
 		"link": "https://www.youtube.com/watch?v=TvSXdO7SDCE"
 	},
 	{
@@ -1357,7 +1357,7 @@
 		"start": "January 23, 1983",
 		"end": "March 8, 1987",
 		"type": "Action Adventure Television Series",
-		"img": "/images/ateam.png",
+		"img": "../public/images/ateam.png",
 		"link": "https://www.youtube.com/watch?v=Cn6kEsloMdE"
 	},
 	{
@@ -1367,7 +1367,7 @@
 		"start": "January 7, 1961",
 		"end": "May 21, 1969",
 		"type": "British Espionage Television Programme",
-		"img": "/images/avengers.jpg",
+		"img": "../public/images/avengers.jpg",
 		"link": "https://www.youtube.com/watch?v=AgEqMsfDGnQ"
 	},
 	{
@@ -1377,7 +1377,7 @@
 		"start": "September 15, 1965",
 		"end": "May 19, 1969",
 		"type": "Western Drama Television Series",
-		"img": "/images/valley.jpg",
+		"img": "../public/images/valley.jpg",
 		"link": "https://www.youtube.com/watch?v=Pg3HcxYcbog"
 	},
 	{
@@ -1387,7 +1387,7 @@
 		"start": "September 16, 1972",
 		"end": "April 1, 1978",
 		"type": "Sitcom Television Series",
-		"img": "/images/newhart.jpg",
+		"img": "../public/images/newhart.jpg",
 		"link": "https://www.youtube.com/watch?v=V-PLEhiOeVA"
 	},
 	{
@@ -1397,7 +1397,7 @@
 		"start": "September 26, 1969",
 		"end": "March 8, 1974",
 		"type": "Sitcom Television Series",
-		"img": "/images/brady.jpg",
+		"img": "../public/images/brady.jpg",
 		"link": "https://www.youtube.com/watch?v=d7vLzfprLNY" 
 	},
 	{
@@ -1407,7 +1407,7 @@
 		"start": "September 11, 1967",
 		"end": "March 29, 1978",
 		"type": "Variety/Sketch Comedy Television Show",
-		"img": "/images/burnett.jpg",
+		"img": "../public/images/burnett.jpg",
 		"link": "https://www.youtube.com/watch?v=VR21DRz62IE"
 	},
 	{
@@ -1417,7 +1417,7 @@
 		"start": "September 20, 1984",
 		"end": "April 30, 1992",
 		"type": "Sitcom Television Series",
-		"img": "/images/cosby.jpeg",
+		"img": "../public/images/cosby.jpeg",
 		"link": "https://www.youtube.com/watch?v=UsddoySxOJo"
 	},
 	{
@@ -1427,7 +1427,7 @@
 		"start": "October 3, 1961",
 		"end": "June 1, 1966",
 		"type": "Sitcom Television Series",
-		"img": "/images/dick.jpg",
+		"img": "../public/images/dick.jpg",
 		"link": "https://www.youtube.com/watch?v=FTMSUtwFp3M"
 	},
 	{
@@ -1437,7 +1437,7 @@
 		"start": "January 26, 1979",
 		"end": "February 8, 1985",
 		"type": "Action Comedy Television Series",
-		"img": "/images/dukes.jpg",
+		"img": "../public/images/dukes.jpg",
 		"link": "https://www.youtube.com/watch?v=67gig0f4HLo"
 	},
 	{
@@ -1447,7 +1447,7 @@
 		"start": "August 24, 1979",
 		"end": "May 7, 1988",
 		"type": "Sitcom Television Series",
-		"img": "/images/facts.jpg",
+		"img": "../public/images/facts.jpg",
 		"link": "https://www.youtube.com/watch?v=39yNQqu4fTI"
 	},
     {
@@ -1457,7 +1457,7 @@
 		"start": "September 30, 1960",
 		"end": "April 1, 1966",
 		"type": "Animated Sitcom Television Series",
-		"img": "/images/flintstones.png",
+		"img": "../public/images/flintstones.png",
 		"link": "https://www.youtube.com/watch?v=_W7tQ1tgWK0"
 	},
 	{
@@ -1467,7 +1467,7 @@
 		"start": "September 10, 1990",
 		"end": "May 20, 1996",
 		"type": "Sitcom Television series",
-		"img": "/images/prince.jpg",
+		"img": "../public/images/prince.jpg",
 		"link": "https://www.youtube.com/watch?v=hBe0VCso0qs"
 	},
 	{
@@ -1477,7 +1477,7 @@
 		"start": "September 14, 1985",
 		"end": "May 9, 1992",
 		"type": "Sitcom Television series",
-		"img": "/images/golden.jpg",
+		"img": "../public/images/golden.jpg",
 		"link": "https://www.youtube.com/watch?v=KiQzUEc_FmI"
 	},
 	{
@@ -1487,7 +1487,7 @@
 		"start": "March 18, 1981",
 		"end": "February 3, 1983",
 		"type": "Comedy Drama Superhero Television series",
-		"img": "/images/hero.jpg",
+		"img": "../public/images/hero.jpg",
 		"link": "https://www.youtube.com/watch?v=IzfockTg57g"
 	},
 	{
@@ -1497,7 +1497,7 @@
 		"start": "September 21, 1998",
 		"end": "May 14, 2007",
 		"type":"Sitcom Television Series",
-		"img": "/images/king-of-queens.jpg",
+		"img": "../public/images/king-of-queens.jpg",
 		"link": "https://www.youtube.com/watch?v=QVwr8lrQ2ww"
 	},
 	{
@@ -1507,7 +1507,7 @@
 		"start": "November 4, 1977",
 		"end": "May 12, 1982",
 		"type": "American Television Series",
-		"img": "/images/hulk.jpg",
+		"img": "../public/images/hulk.jpg",
 		"link": "https://www.youtube.com/watch?v=M7Hh063ZtsA"
 	},
 	{
@@ -1517,7 +1517,7 @@
 		"start": "January 18, 1975",
 		"end": "July 2, 1985",
 		"type":"Sitcom Television Series",
-		"img": "/images/jeffersons.jpg",
+		"img": "../public/images/jeffersons.jpg",
 		"link": "https://www.youtube.com/watch?v=_-OnRQ4P0VY"
 	},
 	{
@@ -1527,7 +1527,7 @@
 		"start": "September 23, 1962",
 		"end": "March 17, 1963",
 		"type": "Animated Sitcom Television Series",
-		"img": "/images/jetsons.jpg",
+		"img": "../public/images/jetsons.jpg",
 		"link": "https://www.youtube.com/watch?v=FyinD6ZDqeg"
 	},
 	{
@@ -1537,7 +1537,7 @@
 		"start": "September 10, 1922",
 		"end": "April 29, 1944",
 		"type": "Comedy Short Films Series",
-		"img": "/images/rascals.jpg",
+		"img": "../public/images/rascals.jpg",
 		"link": "https://www.youtube.com/watch?v=nkM0m-fB2Uw"
 	},
 	{
@@ -1547,7 +1547,7 @@
 		"start": "September 15, 1949",
 		"end": "June 6, 1957",
 		"type": "Western Drama Television Series",
-		"img": "/images/ranger.jpg",
+		"img": "../public/images/ranger.jpg",
 		"link": "https://www.youtube.com/watch?v=p9lf76xOA5k"
 	},
 	{
@@ -1557,7 +1557,7 @@
 		"start": "September 29, 1959",
 		"end": "June 5, 1963",
 		"type": "Sitcom Television Series",
-		"img": "/images/dobi.jpg",
+		"img": "../public/images/dobi.jpg",
 		"link": "https://www.youtube.com/watch?v=m-dD3e6ASkg"
 	},
 	{
@@ -1567,7 +1567,7 @@
 		"start": "September 19, 1970",
 		"end": "March 19, 1977",
 		"type": "Sitcom Television Series",
-		"img": "/images/mary.jpg",
+		"img": "../public/images/mary.jpg",
 		"link": "https://www.youtube.com/watch?v=2c1-S21arfg"
 	},
 	{
@@ -1577,7 +1577,7 @@
 		"start": "September 24, 1964",
 		"end": "May 12, 1966",
 		"type":"Sitcom Television Series",
-		"img": "/images/munsters.png",
+		"img": "../public/images/munsters.png",
 		"link": "https://www.youtube.com/watch?v=r94_IgAMoSs"
 	},
 	{
@@ -1587,7 +1587,7 @@
 		"start": "September 5, 1976",
 		"end": "May 23, 1981",
 		"type":"Comedy Television Series",
-		"img": "/images/muppet.jpg",
+		"img": "../public/images/muppet.jpg",
 		"link": "https://www.youtube.com/watch?v=hEinCgoA48E"
 	},
 	{
@@ -1597,7 +1597,7 @@
 		"start": "September 24, 1970",
 		"end": "March 7, 1975",
 		"type":"Sitcom Television Series",
-		"img": "/images/odd.jpg",
+		"img": "../public/images/odd.jpg",
 		"link": "https://www.youtube.com/watch?v=qV0_EFO_CS4"
 	},
 	{
@@ -1607,7 +1607,7 @@
 		"start": "September 25, 1970",
 		"end": "March 23, 1974",
 		"type":"Musical Sitcom Television Series",
-		"img": "/images/partridge.jpg",
+		"img": "../public/images/partridge.jpg",
 		"link": "https://www.youtube.com/watch?v=98j-33IWCFU"
 	},
 	{
@@ -1617,7 +1617,7 @@
 		"start": "September 4, 1972",
 		"end": "Present",
 		"type":"Television Game Show",
-		"img": "/images/price.jpg",
+		"img": "../public/images/price.jpg",
 		"link": "https://www.youtube.com/watch?v=O_ZD-cd2Y2k"
 	},
 	{
@@ -1627,7 +1627,7 @@
 		"start": "December 17, 1989",
 		"end": "Present",
 		"type": "Animated Sitcom Television Series",
-		"img": "/images/simpsons.jpg",
+		"img": "../public/images/simpsons.jpg",
 		"link": "https://www.youtube.com/watch?v=XNzoJqzA6zM"
 	},
 	{
@@ -1637,7 +1637,7 @@
 		"start": "September 12, 1981",
 		"end": "December 2, 1989",
 		"type": "Animated Fantasy Comedy Children's Television Series",
-		"img": "/images/smurfs.jpg",
+		"img": "../public/images/smurfs.jpg",
 	    "link": "https://www.youtube.com/watch?v=SJv5C-maMa0"
 	},
 	{
@@ -1647,7 +1647,7 @@
 		"start": "August 25, 1996",
 		"end": "February 17, 2002",
 		"type": "Television Sitcom Series",
-		"img": "/images/harvey.jpg",
+		"img": "../public/images/harvey.jpg",
 	    "link": "https://www.youtube.com/watch?v=ngUUYv-4qog"
 	},
 	{
@@ -1657,7 +1657,7 @@
 		"start": "1922",
 		"end": "1970",
 		"type": "Comedy Team Television Series",
-		"img": "/images/stooges.jpg",
+		"img": "../public/images/stooges.jpg",
 		"link": "https://www.youtube.com/watch?v=g2nPoSWtv-k"
 	},
 	{
@@ -1667,7 +1667,7 @@
 		"start": "September 14, 1972",
 		"end": "June 4, 1981",
 		"type": "Drama Television Series",
-		"img": "/images/waltons.jpg",
+		"img": "../public/images/waltons.jpg",
 		"link": "https://www.youtube.com/watch?v=x5LQ5k-bjbE"
 	},
 	{
@@ -1677,7 +1677,7 @@
 		"start": "March 15, 1988",
 		"end": "May 12, 1993",
 		"type": "Comedy Drama Television Series",
-		"img": "/images/years.png",
+		"img": "../public/images/years.png",
 		"link": "https://www.youtube.com/watch?v=-Ob59hsRaFU"
 	},
 	{
@@ -1687,7 +1687,7 @@
 		"start": "March 15, 1977",
 		"end": "September 18, 1984",
 		"type": "Sitcom Television series",
-		"img": "/images/company.jpg",
+		"img": "../public/images/company.jpg",
 		"link": "https://www.youtube.com/watch?v=VwIvA6dGqJ0&list=PLQCC5mMKVN66MIk2ZncIAgxnYxqZYpAIo&index=17"
 	},
 	{
@@ -1697,7 +1697,7 @@
 		"start": "1940",
 		"end": "Present",
 		"type": "Animated Television series",
-		"img": "/images/tom-and-jerry.jpg",
+		"img": "../public/images/tom-and-jerry.jpg",
 		"link": "https://www.youtube.com/watch?v=zeAlFwuP7Vw"
 	},
 	{
@@ -1707,7 +1707,7 @@
 		"start": "September 16, 1983",
 		"end": "May 8, 1987",
 		"type": "Sitcom Television series",
-		"img": "/images/webster.jpg",
+		"img": "../public/images/webster.jpg",
 		"link": "https://www.youtube.com/watch?v=HsjFsfNQjFM"
 	},
 	{
@@ -1717,7 +1717,7 @@
 		"start": "September 9, 1975",
 		"end": "May 17, 1979",
 		"type": "Sitcom Television series",
-		"img": "/images/kotter.jpg",
+		"img": "../public/images/kotter.jpg",
 		"link": "https://www.youtube.com/watch?v=Mmm3KTa601s&list=PLLuToK61MQi66aFjaHFw5qmwEafMmLwxb&index=4"
 	},
 	{
@@ -1727,7 +1727,7 @@
 		"start": "January 6, 1975",
 		"end": "Present",
 		"type": "Television Game Show",
-		"img": "/images/fortune.webp",
+		"img": "../public/images/fortune.webp",
 		"link": "https://www.youtube.com/watch?v=8Y0zp-yeTh4"
 	},
     {
@@ -1737,7 +1737,7 @@
 		"start": "September 20, 1984",
 		"end": "April 25, 1992",
 		"type": "Sitcom Television Series",
-		"img": "/images/boss.jpg",
+		"img": "../public/images/boss.jpg",
 		"link": "https://www.youtube.com/watch?v=u0iuXeOfmdQ"
 	},
 	{
@@ -1747,7 +1747,7 @@
 		"start": "April 19, 1990",
 		"end": "May 21, 1997",
 		"type": "Sitcom Television Series",
-		"img": "/images/wings.jpg",
+		"img": "../public/images/wings.jpg",
 		"link": "https://www.youtube.com/watch?v=EV-XQvbmLYU"
 	},
 	{
@@ -1757,7 +1757,7 @@
 		"start": "September 18, 1978",
 		"end": "April 21, 1982",
 		"type": "Sitcom Television Series",
-		"img": "/images/wkrp.jpg",
+		"img": "../public/images/wkrp.jpg",
 		"link": "https://www.youtube.com/watch?v=jPksb4R0oxo"
 	}
   ]
