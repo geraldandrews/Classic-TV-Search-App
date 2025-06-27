@@ -6,7 +6,7 @@
 		"start": "April 12, 1987",
 		"end": "April 27, 1991",
 		"type": "Police Procedural Television Series",
-		"img": "../src/img/street.png",
+		"img": "public/img/street.png",
 		"link": "https://www.youtube.com/watch?v=AcoHG1iOiYo"
 	},
 	{
@@ -16,7 +16,7 @@
 		"start": "September 14, 1985",
 		"end": "May 6, 1990",
 		"type": "Sitcom Television series",
-		"img": "../src/img/227.jpg",
+		"img": "public/img/227.jpg",
 		"link": "https://www.youtube.com/watch?v=HlAvaED3ACI"
 	},
 	{
@@ -26,7 +26,7 @@
 		"start": "January 9, 1996",
 		"end": "May 22, 2001",
 		"type": "Sitcom Television series",
-		"img": "../src/img/sun.jpg",
+		"img": "public/img/sun.jpg",
 		"link": "https://www.youtube.com/watch?v=sBQ9yToAsFU"
 	},
 	{
@@ -36,7 +36,7 @@
 		"start": "September 21, 1968",
 		"end": "May 20, 1975",
 		"type": "Television Police Procedural Drama",
-		"img": "../src/img/adam12.jpg",
+		"img": "public/img/adam12.jpg",
 		"link": "https://www.youtube.com/watch?v=zi0f0tzEIIY"
 	},
 	{
@@ -46,7 +46,7 @@
 		"start": "September 24, 1987",
 		"end": "July 9, 1993",
 		"type": "Sitcom Television series",
-		"img": "../src/img/different.jpg",
+		"img": "public/img/different.jpg",
 		"link": "https://www.youtube.com/watch?v=acvFhBiI31A"
 	},
 	{
@@ -56,7 +56,7 @@
 		"start": "September 22, 1986",
 		"end": "March 24, 1990",
 		"type": "Sitcom Television series",
-		"img": "../src/img/alf.jpg",
+		"img": "public/img/alf.jpg",
 		"link": "https://www.youtube.com/watch?v=-NVr-vXIa-A"
 	},
 	{
@@ -66,7 +66,7 @@
 		"start": "August 31, 1976",
 		"end": "March 19, 1985",
 		"type": "Sitcom Television Series",
-		"img": "../src/img/alice.jpg",
+		"img": "public/img/alice.jpg",
 		"link": "https://www.youtube.com/watch?v=2iM6PcJFLow"
 	},
 	{
@@ -76,7 +76,7 @@
 		"start": "January 12, 1971",
 		"end": "April 8, 1979",
 		"type": "Sitcom Television Series",
-		"img": "../src/img/family.jpg",
+		"img": "public/img/family.jpg",
 		"link": "https://www.youtube.com/watch?v=fye4uY3pCvo"
 	},
 	{
@@ -86,7 +86,7 @@
 		"start": "September 17, 1983",
 		"end": "December 1, 1990",
 		"type": "Animated Television Series",
-		"img": "../src/img/chipmunks.jpg",
+		"img": "public/img/chipmunks.jpg",
 		"link": "https://www.youtube.com/watch?v=cZmE5fJYumE"
 	},
 	{
@@ -96,7 +96,7 @@
 		"start": "January 12, 1966",
 		"end": "March 14, 1968",
 		"type": "Live Action Television Series",
-		"img": "../src/img/batman.jpg",
+		"img": "public/img/batman.jpg",
 		"link": "https://www.youtube.com/watch?v=1jgE-lrfZ3k"
 	},
 	{
@@ -106,7 +106,7 @@
 		"start": "September 22, 1989",
 		"end": "May 14, 2001",
 		"type": "Action Drama Television Series",
-		"img":"../src/img/baywatch.jpg",
+		"img":"public/img/baywatch.jpg",
 		"link": "https://www.youtube.com/watch?v=O0nqwgu_Us4"
 	},
 	{
