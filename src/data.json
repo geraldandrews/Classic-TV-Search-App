@@ -6,7 +6,7 @@
 		"start": "April 12, 1987",
 		"end": "April 27, 1991",
 		"type": "Police Procedural Television Series",
-		"img": "/Classic-TV-Search-App/images/street.png",
+		"img": "{BASE_URL + images/street.png}",
 		"link": "https://www.youtube.com/watch?v=AcoHG1iOiYo"
 	},
 	{
