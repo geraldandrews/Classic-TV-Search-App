@@ -1,6 +1,6 @@
 import img from '../assets/tv-logo.png';
 import React, { useState, useEffect } from 'react';
-import data from '/public/data.json'; 
+import data from '../data.json'; 
 
 const Cards = () => {
     const [searchTerm, setSearchTerm] = useState('');
