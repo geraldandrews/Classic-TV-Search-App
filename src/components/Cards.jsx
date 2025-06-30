@@ -45,6 +45,10 @@ const Cards = () => {
                 </div>
             </div>
         </div> 
+
+        <div className='designer'>
+            <p>Created and designed by <a href="https://geraldandrewsmedia.netlify.app/" target="_blank">Gerald Andrews</a></p>
+        </div>
     </>
   );
 };
