@@ -87,6 +87,24 @@ input[type="text"] {
     text-align: center;
 }
 
+.designer {
+    background: #333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+}
+
+.designer p {
+    text-align: center;
+    color: #fff;
+}
+
+.designer a {
+    text-decoration: none;
+    color: #fff;
+}
+
 @media (max-width: 600px) {
     .shows-container img {
         width: 50%;
